@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_enter_unique_id_here">
+  <title></title>
+  <shortdesc>Plugins are third-party scripts and applications that extend the functionality of Figma's products.
+  </shortdesc>
+  <section>THere are hundreds of plugins that can be used based on a user's preferences. Some of the most popular include:</section>
+  <refbody>
+    <simpletable>
+      <strow>
+          <stentry>Iconify: A collection of open-source icon sets for use in Figma. Includes 150+ icon sets and over 200k icons</stentry>
+      </strow>
+      <strow>
+          <stentry>Unsplash: Accesss and instert images from Unsplash, an image-hosting website.</stentry>
+      </strow>
+      <strow>
+          <stentry>Figma to Code: </stentry>
+      </strow>
+      <strow>
+          <stentry>Icons8:</stentry>
+      </strow>
+      <strow>
+          <stentry>html.to.design:</stentry>
+      </strow>
+      <strow>
+          <stentry>Anima: Get code based on your design to accelerate the design-to-development process.</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

@@ -1,57 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_enter_unique_id_here">
-  <title></title>
-  <shortdesc> </shortdesc>
+  <title>hexvalues</title>
+  <shortdesc>This defines HEX Values and provides a table for different colors and their associated
+    HEX value and RGB Value</shortdesc>
   <refbody>
+    <!-- Definition -->
     <section>
+      <!-- Definition -->
       <title>Definition</title>
-      <p>A HEX Value is a color code that tells computers and devices which
-      color to display using three pairs of digitals, representing the red, green, and blue RGB
-      values.</p>
+      <p>A HEX Value is a color code that tells computers and
+      devices which color to display using three pairs of digitals, representing the red, green, and
+      blue RGB values.</p>
     </section>
+    <!-- Table of HEX Codes, RGB Codes, and Colors -->
     <properties>
       <prophead>
         <proptypehd>Color</proptypehd>
         <propvaluehd>HEX Value</propvaluehd>
         <propdeschd>RGB Value</propdeschd>
       </prophead>
+      <!-- Red -->
       <property>
         <proptype>Red</proptype>
         <propvalue>#FF0000</propvalue>
         <propdesc>255, 0, 0</propdesc>
       </property>
+      <!-- Orange -->
       <property>
         <proptype>Orange</proptype>
         <propvalue>#FFA500</propvalue>
         <propdesc>255, 165, 0</propdesc>
       </property>
+      <!-- Yellow -->
       <property>
         <proptype>Yellow</proptype>
         <propvalue>#FFFF00</propvalue>
         <propdesc>255, 255, 0</propdesc>
       </property>
+      <!-- Green -->
       <property>
         <proptype>Green</proptype>
         <propvalue>#00FF00</propvalue>
         <propdesc>0, 255, 0</propdesc>
       </property>
+      <!-- Blue -->
       <property>
         <proptype>Blue</proptype>
         <propvalue>#0073CF</propvalue>
         <propdesc>0, 115, 207</propdesc>
       </property>
+      <!-- Indigo -->
       <property>
         <proptype>Indigo</proptype>
         <propvalue>#4B0082</propvalue>
         <propdesc>75, 0, 130</propdesc>
       </property>
+      <!-- Violet -->
       <property>
         <proptype>Violet</proptype>
         <propvalue>#8000FF</propvalue>
         <propdesc>128, 0, 255</propdesc>
       </property>
     </properties>
-
   </refbody>
 </reference>

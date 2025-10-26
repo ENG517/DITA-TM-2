@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_enter_unique_id_here">
-  <title></title>
-  <shortdesc>
-
-  </shortdesc>
+  <title>grayscae</title>
+  <shortdesc> Grayscale colors in Figma create neutral-toned versions of colored vectors and
+    graphics and aid in accessibility testing of designs to ensure UI constrast remains consistent. </shortdesc>
   <refbody>
+    <section>
+      <title>Definition</title>
+      <p>Grayscaled graphics and images only contain shades of black, white
+      and gray. By sticking with black and white, form, contrast, and fundamental elements like
+      lineand shape are emphasized.</p>
+      <p>By sticking with black and white, form, contrast, and
+      fundamental elements like line and shape are emphasized.</p>
+      <p>While true black and white
+      onlyexist in two HEX codes, gray shades exist across the image in varying levels</p>
+    </section>
+    <properties>
+      <prophead>
+        <proptypehd>Shade</proptypehd>
+        <propvaluehd>HEX Value</propvaluehd>
+      </prophead>
+      <property>
+        <proptype>Black</proptype>
+        <propvalue>#000000</propvalue>
+      </property>
+      <property>
+        <proptype>50% Gray</proptype>
+        <propvalue>#808080</propvalue>
+      </property>
+      <property>
+        <proptype>White</proptype>
+        <propvalue>#FFFFFF</propvalue>
+      </property>
+    </properties>
 
   </refbody>
 </reference>

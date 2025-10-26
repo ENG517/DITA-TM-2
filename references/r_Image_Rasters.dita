@@ -7,7 +7,9 @@
   <refbody>
     <section>Raster image files are generally larger in size than vector graphic files.</section>
     <simpletable>
-      <sthead>Common raster file formats:</sthead>
+      <sthead>
+        <stentry>Common raster file formats:</stentry>
+      </sthead>
       <strow>
         <stentry>JPEG</stentry>
       </strow>

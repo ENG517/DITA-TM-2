@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_enter_unique_id_here">
-  <title></title>
-  <shortdesc>Plugins are third-party scripts and applications that extend the functionality of Figma's products.
+  <title>Supported Plugins</title>
+  <shortdesc>Plugins and extensions are third-party scripts and applications that extend the functionality of Figma's products.
   </shortdesc>
-  <section>THere are hundreds of plugins that can be used based on a user's preferences. Some of the most popular include:</section>
+  <section>There are hundreds of plugins that can be used based on a user's preferences. Some of the most popular include:</section>
   <refbody>
     <simpletable>
       <strow>
@@ -14,13 +14,13 @@
           <stentry>Unsplash: Accesss and instert images from Unsplash, an image-hosting website.</stentry>
       </strow>
       <strow>
-          <stentry>Figma to Code: </stentry>
+          <stentry>Figma to Code: Converts Figma layouts into responsive webpages (HTML, Tailwind, Svelte, or styled-components) or mobile apps (Flutter or SwiftUI) while preserving the original design.</stentry>
       </strow>
       <strow>
-          <stentry>Icons8:</stentry>
+          <stentry>Icons8: Large and consistently maintained collection of icons, photos, and illustrations that can be accessed without leaving Figma.</stentry>
       </strow>
       <strow>
-          <stentry>html.to.design:</stentry>
+          <stentry>html.to.design: Converts any website into fully-editable Figma designs. Save time by not needing to build each element from scratch.</stentry>
       </strow>
       <strow>
           <stentry>Anima: Get code based on your design to accelerate the design-to-development process.</stentry>

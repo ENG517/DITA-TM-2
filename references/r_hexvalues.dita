@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_enter_unique_id_here">
+  <title></title>
+  <shortdesc> </shortdesc>
+  <refbody>
+    <section>
+      <title>Definition</title>
+      <p>A HEX Value is a color code that tells computers and devices which
+      color to display using three pairs of digitals, representing the red, green, and blue RGB
+      values.</p>
+    </section>
+    <properties>
+      <prophead>
+        <proptypehd>Color</proptypehd>
+        <propvaluehd>HEX Value</propvaluehd>
+        <propdeschd>RGB Value</propdeschd>
+      </prophead>
+      <property>
+        <proptype>Red</proptype>
+        <propvalue>#FF0000</propvalue>
+        <propdesc>255, 0, 0</propdesc>
+      </property>
+      <property>
+        <proptype>Orange</proptype>
+        <propvalue>#FFA500</propvalue>
+        <propdesc>255, 165, 0</propdesc>
+      </property>
+      <property>
+        <proptype>Yellow</proptype>
+        <propvalue>#FFFF00</propvalue>
+        <propdesc>255, 255, 0</propdesc>
+      </property>
+      <property>
+        <proptype>Green</proptype>
+        <propvalue>#00FF00</propvalue>
+        <propdesc>0, 255, 0</propdesc>
+      </property>
+      <property>
+        <proptype>Blue</proptype>
+        <propvalue>#0073CF</propvalue>
+        <propdesc>0, 115, 207</propdesc>
+      </property>
+      <property>
+        <proptype>Indigo</proptype>
+        <propvalue>#4B0082</propvalue>
+        <propdesc>75, 0, 130</propdesc>
+      </property>
+      <property>
+        <proptype>Violet</proptype>
+        <propvalue>#8000FF</propvalue>
+        <propdesc>128, 0, 255</propdesc>
+      </property>
+    </properties>
+
+  </refbody>
+</reference>

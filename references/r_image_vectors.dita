@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_image_vectors">
+  <title>Image Vectors</title>
+  <shortdesc>
+  Vector graphics are computer images created with a sequence of commands or mathematical statements placing lines and shapes in a two-dimensional or three-dimensional space. 
+  </shortdesc>
+  <!-- Benefits of vectors -->
+  <refbody>
+  <section>
+    <title>Benefits of vector images</title>
+    <p>Vector images have many benefits.</p>
+    <ul>
+      <li>Infinitely scalable</li>
+      <li>Adaptable to various screen sizes</li>
+      <li>Small file size</li>
+    </ul>
+  </section>
+  <!--Designers vs ilustrators  -->
+  <section>
+    <title>Vectors in graphic design vs illustration</title>
+
+    <simpletable>
+      <sthead>
+        <stentry>Graphic Design</stentry>
+        <stentry>Illustration</stentry>
+      </sthead>
+      <strow>
+        <stentry>Focused on Structural elements</stentry>
+        <stentry>Focused on Stand alone elements</stentry>
+      </strow>
+      <strow>
+        <stentry>Focused on overall composition</stentry>
+        <stentry>Focused on individual image </stentry>
+      </strow>
+      <strow>
+        <stentry> Craft Text and graphics</stentry>
+        <stentry>Craft Artwork </stentry>
+      </strow>
+    </simpletable>
+  </section>
+
+  </refbody>
+</reference>

@@ -6,11 +6,11 @@
     Put an image in your frame
   </shortdesc>
   <taskbody>
-    <step>
+    <steps>
       1. <step><cmd>Navigate to the properties panel located on the right-hand side.</cmd></step>
       2. <step><cmd>Click the "FFFFFF" button located underneath the "Fill" property.</cmd>
       <image href="assets/images/Properties Panel.png" alt="Properties panel"></image>
-      <note>Figure _: The frame defaults to "FFFFFF," which is a solid white fill.</note></step>
+      <note>Figure: The frame defaults to "FFFFFF," which is a solid white fill.</note></step>
       3. <step>Navigate to the **image icon**.</step>
       4. <step>Click **Upload from Computer**.</step>
       5. <step>Import your Image.</step>

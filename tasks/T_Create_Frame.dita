@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_enter_unique_id_here">
-  <title></title>
+<task id="t_create_frame">
+  <title>Creating a Frame</title>
   <shortdesc>
     Frames are the primary container for design elements such as shapes, texts, and images in Figma.
   </shortdesc>
   <taskbody>
-    <prereq>
-      Have an image to import. Currently, Figma supports JPG, PNG, GIF, WEBP, and HEIC formats.
+    <prereq>Pre-Requisites:
+      <p> </p>Have an image to import. Currently, Figma supports JPG, PNG, GIF, WEBP, and HEIC formats.</p>
+      <p>Different image formats are ideal for different image types. (link to file type ref topic can go here)</p>
     </prereq>
     <steps>
-      <step><cmd>1. Open a new Figma workspace.</cmd></step>
-      <step><cmd>2. Navigate to the toolbar located at the bottom of the page.</cmd></step>
-      <step><cmd>3. Select the Frame Tool, located in the second dropdown menu from the left.</cmd>
+      1. <step><cmd>Open a new Figma workspace.</cmd></step>
+      2. <step><cmd>Navigate to the toolbar located at the bottom of the page.</cmd></step>
+      3. <step><cmd>Select the Frame Tool, located in the second dropdown menu from the left.</cmd>
       <info><image>assets/images/Frame Toolbar Menu.png</image>
       <note>Fig. 1: The dropdown menu, with three options</note></info></step>
-      <step><cmd>4.Resize your frame by dragging its corners.</cmd></step>
+      4. <step><cmd>Resize your frame by dragging its corners.</cmd></step>
     </steps>
 
   </taskbody>

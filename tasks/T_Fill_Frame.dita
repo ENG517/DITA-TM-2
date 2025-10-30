@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_enter_unique_id_here">
-  <title></title>
+<task id="T_Fill_Frame">
+  <title>Filling Your Frame</title>
   <shortdesc>
-
+    Put an image in your frame
   </shortdesc>
   <taskbody>
+    <steps>
+      1. <step><cmd>Navigate to the properties panel located on the right-hand side.</cmd></step>
+      2. <step><cmd>Click the "FFFFFF" button located underneath the "Fill" property.</cmd></step>
 
+    </steps>
   </taskbody>
 </task>

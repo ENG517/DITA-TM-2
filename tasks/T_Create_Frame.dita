@@ -7,17 +7,16 @@
   </shortdesc>
   <taskbody>
     <prereq>Pre-Requisites:
-      <p> </p>Have an image to import. Currently, Figma supports JPG, PNG, GIF, WEBP, and HEIC formats.</p>
+      <p>Have an image to import. Currently, Figma supports JPG, PNG, GIF, WEBP, and HEIC formats.</p>
       <p>Different image formats are ideal for different image types. (link to file type ref topic can go here)</p>
     </prereq>
     <steps>
       1. <step><cmd>Open a new Figma workspace.</cmd></step>
       2. <step><cmd>Navigate to the toolbar located at the bottom of the page.</cmd></step>
       3. <step><cmd>Select the Frame Tool, located in the second dropdown menu from the left.</cmd>
-      <info><image>assets/images/Frame Toolbar Menu.png</image>
-      <note>Fig. 1: The dropdown menu, with three options</note></info></step>
+      <image href="assets/images/Frame Toolbar Menu.png" alt="The Figma toolbar menu."></image>
+      <note>Fig. 1: The dropdown menu, with three options</note></step>
       4. <step><cmd>Resize your frame by dragging its corners.</cmd></step>
     </steps>
-
   </taskbody>
 </task>

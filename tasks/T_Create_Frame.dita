@@ -3,9 +3,12 @@
 <task id="t_enter_unique_id_here">
   <title></title>
   <shortdesc>
-
+    Frames are the primary container for design elements such as shapes, texts, and images in Figma.
   </shortdesc>
   <taskbody>
+    <prereq>
+      Have an image to import. Currently, Figma supports JPG, PNG, GIF, WEBP, and HEIC formats.
+    </prereq>
 
   </taskbody>
 </task>

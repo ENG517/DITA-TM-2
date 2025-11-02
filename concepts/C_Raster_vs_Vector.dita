@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_raster_vs_vector">
+  <title></title>
+  <shortdesc>
+    The two primary image types used in Figma are Raster Images, and Vector Images. 
+  </shortdesc>
+  <conbody>
+    <section>
+      A Raster Image is comprised of pixels, and is treated as an Image Fill in Figma. This allows for editable properties like color, exposure, contrast, and layer effects like blurs and drop shadows to be easily manipulated.
+      
+      The other dominant image type is Vector. These images are formed by mathematical equations denoting fixed points on a grid. This format carries many benefits, but it often fails to capture the same photorealistic details that Raster Images do.</section>
+  </conbody>
+</concept>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_enter_unique_id_here">
+  <title>Grayscaling your Image using Monomagic</title>
+  <shortdesc> While it is possible to apply a grayscale mask in Figma using the saturation slider,
+    to convert your image itself to grayscale will require a third party plugin. I recommend
+    MonoMagic for its easy to use interface and seamless interaction with Figma. </shortdesc>
+  <taskbody>
+    <prereq>
+      <p>Download and install the Monomagic plugin.</p>
+    </prereq>
+    <steps>
+      <step>
+        <cmd>Hover over the open in button on the Monomagic page.</cmd>
+      </step>
+      <step>
+        <cmd>Open the plugin in the environment we've been working in.</cmd>
+      </step>
+      <step>
+        <cmd>Select your image.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

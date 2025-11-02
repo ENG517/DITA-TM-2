@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_Bitmap">
+  <title>Bitmaps</title>
+  <shortdesc>
+    Bitmaps are used for Raster (pixel-based) images in Figma.
+  </shortdesc>
+  <conbody> 
+    <section>
+      A bitmap is a digital image format that stores an image as a grid of pixels, where each pixel has its own color information. 
+    Also reffered to as 'raster graphics' (link location), bitmaps are ideal for detailed, realistic images like photographs. But bitmaps can become pixelated if resized beyond their fixed resolution. 
+        </section>
+    <section>
+      Common file formats include:
+      <ul>
+        <li>BMP</li>
+        <li>JPEG</li>
+        <li>PNG</li>
+        <li> GIF</li>
+      </ul>
+    </section>
+      
+  </conbody>
+</concept>

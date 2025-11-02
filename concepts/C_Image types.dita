@@ -26,5 +26,6 @@
         <strow><stentry>WEBP</stentry></strow>
         <strow><stentry>GIF</stentry></strow>     
     </simpletable>
+    <section>Figma can export PNG, JPG, WEBP, or SVG, in multiple scales (1x-3x), with transparent or opaque backgrounds (for PNG and WBP only.)</section>
   </conbody>
 </concept>

@@ -13,7 +13,7 @@
         <title>Rangen of greyscale colors</title>
         <image href="assets/images/Greyscale color table.webp" alt="Greyscale color table"></image></fig>
       <fig>
-        <title>Image in color vs Image on greyscale</title>
+        <title>Image in color vs Image in greyscale</title>
         <image href="assets/images/Greyscale image in color.jpg" alt="Image in color"></image>
         <image href="assets/images/Greyscale image.jpg" alt="Image in greyscale"></image>
       </fig>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_Image_Types">
+  <title>Image Types</title>
+  <shortdesc>
+    Image filetypes used by Figma
+  </shortdesc>
+  <conbody>
+    <simpletable>
+      <sthead></sthead>
+        <stentry></stentry>
+      
+    </simpletable>
+
+  </conbody>
+</concept>

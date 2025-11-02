@@ -7,10 +7,24 @@
   </shortdesc>
   <conbody>
     <simpletable>
-      <sthead></sthead>
-        <stentry></stentry>
-      
+      <sthead>Raster Images</sthead>
+        <strow><stentry>PNG</stentry></strow>
+        <strow><stentry>JPG/JPEG</stentry></strow>
+        <strow><stentry>WEBP</stentry></strow>
+        <strow><stentry>GIF</stentry></strow>     
     </simpletable>
-
+    <simpletable>
+      <sthead>Vector Images</sthead>
+        <strow><stentry>SVG</stentry></strow>
+        <strow><stentry>PDF</stentry></strow>
+        <strow><stentry>EPS</stentry></strow>     
+    </simpletable>
+    <simpletable>
+      <sthead>Other Media</sthead>
+        <strow><stentry>Video (MP4, MOV, etc...)</stentry></strow>
+        <strow><stentry>JSON animations/Lottie</stentry></strow>
+        <strow><stentry>WEBP</stentry></strow>
+        <strow><stentry>GIF</stentry></strow>     
+    </simpletable>
   </conbody>
 </concept>

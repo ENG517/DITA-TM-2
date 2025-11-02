@@ -9,6 +9,10 @@
     <section>
       A Raster Image is comprised of pixels, and is treated as an Image Fill in Figma. This allows for editable properties like color, exposure, contrast, and layer effects like blurs and drop shadows to be easily manipulated.
       
-      The other dominant image type is Vector. These images are formed by mathematical equations denoting fixed points on a grid. This format carries many benefits, but it often fails to capture the same photorealistic details that Raster Images do.</section>
+      The other dominant image type is Vector. These images are formed by mathematical equations denoting fixed points on a grid. This format carries many benefits, but it often fails to capture the same photorealistic details that Raster Images do.
+      </section>
+      <fig>
+        <image href="assets/images/Raster vs Vector.png" alt="Raster vs Vector images"></image>
+      </fig>
   </conbody>
 </concept>

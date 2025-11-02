@@ -6,6 +6,17 @@
     Greyscale images
   </shortdesc>
   <conbody>
-    A greyscale image contains only black, white and gray colors. The gray has multiple levesl to account for differences in color, depth, and shadow.
+    <section>
+      A greyscale image is an image without any visible color, or an image that contains only black, white and gray. The gray has multiple levels to account for differences in shade, depth, and shadow.
+      <fig>
+        <title>Rangen of greyscale colors</title>
+        <image href="assets/images/Greyscale color table.webp" alt="Greyscale color table"></image></fig>
+      <fig>
+        <title>Image with color vs Image with greyscale</title>
+        <image href="assets/images/Greyscale image in color.jpg" alt="Image in color"></image>
+        <image href="assets/images/Greyscale image.jpg" alt="Image in greyscale"></image>
+      </fig>
+    </section>
+    
   </conbody>
 </concept>

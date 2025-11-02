@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_grayscale_image">
+  <title>Greyscale Image</title>
+  <shortdesc>
+    Greyscale images
+  </shortdesc>
+  <conbody>
+    A greyscale image contains only black, white and gray colors. The gray has multiple levesl to account for differences in color, depth, and shadow.
+  </conbody>
+</concept>

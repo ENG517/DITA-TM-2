@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_Image_Types">
+  <title>Image Types in Figma</title>
+  <shortdesc>This table provides the image filetypes supported by Figma.</shortdesc>
+  <refbody>
+    <simpletable>
+      <sthead>
+        <stentry>Image Type</stentry>
+        <stentry>Accepted File Types</stentry>
+      </sthead>
+        <strow>
+          <stentry>Raster Images</stentry>
+          <stentry>PNG, JPG/JPEG, WEBP, GIF</stentry>
+        </strow>
+        <strow>
+          <stentry>Vector Images</stentry>
+          <stentry>SVG, PDF, EPS</stentry>
+        </strow>
+        <strow>
+          <stentry>Other Media</stentry>
+          <stentry> JSON animations/Lottie, WEBP, GIF, Video (MP4, MOV, etc…)</stentry>
+        </strow>
+    </simpletable>    
+    <section>Figma can export PNG, JPG, WEBP, or SVG, in multiple scales (1x-3x), with transparent or opaque backgrounds (for PNG and WBP only.)</section>
+  </refbody>
+</reference>

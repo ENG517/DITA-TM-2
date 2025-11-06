@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_Negative_Space">
+  <title>Negative Space</title>
+  <shortdesc>
+    Negative Space is an important element of design.
+  </shortdesc>
+  <conbody>
+    <p>Negative space is the space around or between objects, elements, or forms, that creates a form itself.
+      <image href="assets/images/C_Negative Space.avif" placement="break" alt="The Pittsburgh Zoo Logo has a gorilla and lion in the negative space"></image>
+    </p>
+  </conbody>
+</concept>

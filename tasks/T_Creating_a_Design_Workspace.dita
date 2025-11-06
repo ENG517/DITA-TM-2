@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_creating_a_design_workspace">
+  <title>Creating a Design Workspace</title>
+  <shortdesc>
+    Creating a design workspace is the first step to working in Figma, and is needed to edit images or create prototypes.
+  </shortdesc>
+  <taskbody>
+    <steps>
+      <step><cmd>Open Figma in your browser</cmd></step>
+      <step><cmd>Select 'Design' in the upper right-hand corner.
+      <image href="assets/images/T_creating a design workspace.png" alt="The Design button"></image></cmd></step>
+    </steps>
+  </taskbody>
+</task>

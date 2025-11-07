@@ -7,13 +7,13 @@
   </shortdesc>
   <taskbody>
     <steps>
-      1. <step><cmd>Navigate to the properties panel located on the right-hand side.</cmd></step>
-      2. <step><cmd>Click the "FFFFFF" button located underneath the "Fill" property.</cmd>
-      <image href="assets/images/Properties Panel.png" alt="Properties panel"></image>
-      <note>Figure: The frame defaults to "FFFFFF," which is a solid white fill.</note></step>
-      3. <step>Navigate to the **image icon**.</step>
-      4. <step>Click **Upload from Computer**.</step>
-      5. <step>Import your Image.</step>
-      </steps>
+      <step><cmd>Navigate to the properties panel located on the right-hand side.</cmd></step>
+      <step><cmd>Click the "FFFFFF" button underneath the "Fill" property.
+      <image href="assets/images/Properties Panel.png" alt="Properties panel"></image></cmd>
+      <info>Figure: The frame defaults to "FFFFFF," which is a solid white fill.</info></step>
+      <step><cmd>Navigate to the "Image" icon.</cmd></step>
+      <step><cmd>Click "Upload from Computer".</cmd></step>
+      <step><cmd>Import your image.</cmd></step>
+    </steps>
   </taskbody>
 </task>

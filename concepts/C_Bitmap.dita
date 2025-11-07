@@ -8,8 +8,9 @@
   <conbody> 
     <section>
       A bitmap is a digital image format that stores an image as a grid of pixels, where each pixel has its own color information. 
-    Also reffered to as 'raster graphics' (link location), bitmaps are ideal for detailed, realistic images like photographs. But bitmaps can become pixelated if resized beyond their fixed resolution. 
-        </section>
+      Also reffered to as 'raster graphics' (link location), bitmaps are ideal for detailed, realistic images like photographs. 
+      Bitmaps can become pixelated if resized beyond their fixed resolution. 
+    </section>
     <section>
       Common file formats include:
       <ul>

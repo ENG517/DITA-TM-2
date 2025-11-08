@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_drawing_tools">
+<title>Drawing Tools in Figma</title>
+<shortdesc> Drawing tools in Figma help create curated path networks that customize your design.</shortdesc>
+<conbody>
+<p>Figma's drawing tools account for three different kinds of brush strokes to make your designs
+  take on a hand-drawn feel in digital spaces. The drawing tools contain vectorized brushes,
+  advanced stroke settings, fills, and more!</p>
+<section>
+  <title>Brushes</title>
+      <p>Brushed add hand-drawn elements to your designs for your projects. You
+  can draw directly inside your Figma Design file using the pencil andbrush tools. These tools
+  create vecotr networks by placing vector points along your drawing path. The vector points of your
+  drawing can be edited using <uicontrol>vector edit mode</uicontrol>.</p>
+      <p>These brush styles can
+  be further customized by creating single vecotr layers using shapes, flattened text layers, and
+  custom vector paths. </p>
+</section>
+<section>
+  <title>Textures</title>
+      <p>You can add layers to the drawings to enhance the final product with
+  different effects.</p>
+      <p>The seven types of effects in Figma Draw are:</p>
+        <ul>
+    <li>Glass</li>
+    <li>Drop shadow</li>
+    <li>Layer blur</li>
+    <li>inner shadow</li>
+    <li>Background blur</li>
+    <li>Noise</li>
+    <li>Texture</li>
+  </ul>
+      <p>Experiment with these different textures and effects in your design to
+  add more depth do your drawings!</p>
+</section>
+<section>
+  <title>Dynamic Strokes</title>
+    <p></p>
+</section>
+<title>Variable Width Strokes</title>
+<//section>
+</conbody>
+</concept>

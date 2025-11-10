@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_enter_unique_id">
+  <title></title>
+  <topicref href="" format="ditamap">
+    <topicmeta>
+      <navtitle></navtitle>
+    </topicmeta>
+  </topicref>
+<!-- Concept topics -->
+  <!-- C_Negative_Space-->
+  <topicref
+      type="concept"
+      href="concepts/C_Negative_Space.dita"
+      format="ditamap">
+    <topicmeta>
+      <navtitle>Using negative space in design</navtitle>
+    </topicmeta>
+  </topicref>
+    <!-- C_Bitmap-->
+  <topicref
+      type="concept"
+      href="concepts/Bitmap.dita"
+      format="ditamap">
+    <topicmeta>
+      <navtitle>Bitmaps are used for raster images</navtitle>
+    </topicmeta>
+  </topicref>
+  <!-- Task Topics -->
+  <!-- T_Create_Frame-->
+  <topicref
+      type="task"
+      href="tasks/T_Create_Frame.dita"
+      format="ditamap">
+    <topicmeta>
+      <navtitle>Creating a frame</navtitle>
+    </topicmeta>
+  </topicref>
+  <!-- T_Fill_Frame -->
+  <topicref
+      type="task"
+      href="tasks/T_Fill_Frame.dita"
+      format="ditamap">
+    <topicmeta>
+      <navtitle>Filling a frame</navtitle>
+    </topicmeta>
+  </topicref>
+  <!-- T_scale_image-->
+  <topicref
+      type="task"
+      href="tasks/T_scale_image.dita"
+      format="ditamap">
+    <topicmeta>
+      <navtitle>Scalinng an image</navtitle>
+    </topicmeta>
+  </topicref>
+  <!--T_Exporting_your_image-->
+<topicref
+      type="task"
+      href="tasks/T_Exporting_your_Image.dita"
+      format="ditamap">
+    <topicmeta>
+      <navtitle>Exporting Your Image</navtitle>
+    </topicmeta>
+  </topicref>
+  <!-- Reference Topics -->
+  <!-- R_Hotkeys -->
+  <topicref
+      type="reference"
+      href="references/r_hotkeys.dita"
+      format="ditamap">
+    <topicmeta>
+      <navtitle>Hotkeys</navtitle>
+    </topicmeta>
+  </topicref>
+  <!-- R_Design Panel -->
+  <topicref
+      type="reference"
+      href="references/r_design_panel.dita"
+      format="ditamap">
+    <topicmeta>
+      <navtitle>Design Panel</navtitle>
+    </topicmeta>
+  </topicref>
+  <!-- R_Image_types -->
+  <topicref
+      type="reference"
+      href="references/R_Image_types"
+      format="ditamap">
+    <topicmeta>
+      <navtitle>Different image types</navtitle>
+    </topicmeta>
+  </topicref>
+<!-- r_image_vectors -->
+ <topicref
+      type="reference"
+      href="references/R_image_vectors"
+      format="ditamap">
+    <topicmeta>
+      <navtitle>Image vectors</navtitle>
+    </topicmeta>
+  </topicref>
+</map>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</map>

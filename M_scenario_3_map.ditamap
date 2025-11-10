@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="M_scenario_3_map">
-  <!-- Concept topics -->
   <title>Importing Images/Illustrator for Image Editing</title>
+
+  <!-- Concept topics -->
+
   <topicref type="concept" href="concepts/C_Negative_Space.dita" format="ditamap">
     <topicmeta>
       <navtitle>Using negative space in design</navtitle>

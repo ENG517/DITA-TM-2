@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_enter_unique_id_here">
-  <title></title>
-  <shortdesc>
-
-  </shortdesc>
+<task id="Rotating_an_image">
+  <title>Rotating an image</title>
+  <shortdesc>You can rotate an image in Figma by selecting it and dragging the rotation handle or by entering a specific angle in the right-hand panel</shortdesc>
   <taskbody>
+    <steps>
+      <step>
+        <cmd>Select your image.</cmd>
+      </step>
+      <step>
+        <cmd>Navigate to the the rotation field in the design panel, which should have an angle icon next to it. <image href="assets/images/screenshots/Rotation Tool.png" ></image></cmd>
+      </step>
+      <step>
+        <cmd>Enter your desired degree value.</cmd>
+      </step>
+    </steps>
 
   </taskbody>
 </task>

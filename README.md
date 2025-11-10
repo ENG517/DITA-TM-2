@@ -4,7 +4,7 @@ This repo contains a DITA topic model (TM) ...
 
 ## Authors
 
-- Enter names here
+- Wyatt Blanchette, Madelyn Kenney, Deanna Kolski
 
 ## Project Maps
 
@@ -25,10 +25,15 @@ Terrence is a college senior at the Academy of the Arts studying illustration. I
 His real passion, however, lies in concept art. Terrence has always been a sci-fi junkie and enjoys hand-sketching elaborate cityscapes, fantasy backgrounds, and futurist characters and technology. His portfolio of these drawings was so extensive, in fact, that he was able to acquire an internship with Harper Voyager, a sci-fi-focused imprint of Harper Collins. Perhaps even more importantly, Harper Voyager would like to use one of Terrence's drawings for one of their represented writers! His first task is to both digitize and colorize the selected illustration for their use. They would like it to be in vector format to scale up for promotional materials they are going to create to advertise the release of the author's new novel.
 
 Map Outline:
-- c_filename.dita (File title)
-- c_filename.dita (File title)
-- t_filename.dita (File title)
-  - t_filename.dita (File title)
+- C_Raster_vs_Vector images
+- C_Bitmaps
+- T_Vectorize_An_Image
+- T_Create_Frame
+- T_Scale_Image
+- T_Fill_Frame
+- R_Image_Types
+- R_Supported_Plugins
+
 
 ### User Scenario 3: ...
 
@@ -39,10 +44,18 @@ Recently, Gary was approached by DC Comics to work on a popular comic book serie
 The team he’s working on recently transitioned to Figma for its collaborative power, not only amongst the illustrators but also with DC’s in-house web designers. They would like for Gary to give a short virtual presentation of work he’s created prior to the series, and would like his images to be in Figma so other team members can offer real-time feedback and comments.
 
 Map Outline:
-- c_filename.dita (File title)
-- c_filename.dita (File title)
-- t_filename.dita (File title)
-  - t_filename.dita (File title)
+- C_Negative_Space
+- C_Raster_vs_Vector images
+- T_Create_Frame
+- T_Fill_Frame
+- T_Scale_image
+- T_Rotate_Image
+- R_Image_Vectors
+- R_Image_Rasters
+- R_Image_Types
+- R_Hotkeys
+- R_Design_Panel
+
 
 ## Folders &amp; Files
 

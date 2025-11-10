@@ -1,10 +1,10 @@
 # DITA Topic Model - Enter Title Here
 
-This repo contains a DITA topic model (TM) ...
+This repo contains a DITA topic model (TM) for three scenario-based procedures related to omage illustration and editing within Figma, a cloud-based design platform where mockup,s prototypes, and projects can be shared in real-time. 
 
 ## Authors
 
-- Enter names here
+Wyatt Blanchette, Madelyn Kenney, Deanna Kolski
 
 ## Project Maps
 
@@ -13,10 +13,15 @@ This repo contains a DITA topic model (TM) ...
 Samuel has spent the last five years working at a large independent design consultancy that works on everything from graphics and images, web design, products and packaging, to exhibitions and installations. Frequently, he will work cross-functionally with the web designers, who do most of their work in Figma. They consistently extoll the collaborative component of Figma and would like Samuel to start crafting some of his images in the software, even if he does ultimately finish everything in Adobe Illustrator. The final product must align with accessibility standards, particularly for colorblind users
 
 Map Outline:
-- c_filename.dita (File title)
-- c_filename.dita (File title)
-- t_filename.dita (File title)
-  - t_filename.dita (File title)
+- C_Negative_Space
+- T_Grayscale_using_Monomagic
+- T_Testing_Colorblind_Accessibility
+- R_Grayscale
+- R_Hotkeys
+- R_Design_Panel
+- R_Figma_Draw
+- R_Supported_Plugins
+
 
 ### User Scenario 2: ...
 
@@ -25,10 +30,15 @@ Terrence is a college senior at the Academy of the Arts studying illustration. I
 His real passion, however, lies in concept art. Terrence has always been a sci-fi junkie and enjoys hand-sketching elaborate cityscapes, fantasy backgrounds, and futurist characters and technology. His portfolio of these drawings was so extensive, in fact, that he was able to acquire an internship with Harper Voyager, a sci-fi-focused imprint of Harper Collins. Perhaps even more importantly, Harper Voyager would like to use one of Terrence's drawings for one of their represented writers! His first task is to both digitize and colorize the selected illustration for their use. They would like it to be in vector format to scale up for promotional materials they are going to create to advertise the release of the author's new novel.
 
 Map Outline:
-- c_filename.dita (File title)
-- c_filename.dita (File title)
-- t_filename.dita (File title)
-  - t_filename.dita (File title)
+- C_Raster_vs_Vector images
+- C_Bitmaps
+- T_Vectorize_An_Image
+- T_Create_Frame
+- T_Scale_Image
+- T_Fill_Frame
+- R_Image_Types
+- R_Supported_Plugins
+
 
 ### User Scenario 3: ...
 
@@ -39,10 +49,18 @@ Recently, Gary was approached by DC Comics to work on a popular comic book serie
 The team he’s working on recently transitioned to Figma for its collaborative power, not only amongst the illustrators but also with DC’s in-house web designers. They would like for Gary to give a short virtual presentation of work he’s created prior to the series, and would like his images to be in Figma so other team members can offer real-time feedback and comments.
 
 Map Outline:
-- c_filename.dita (File title)
-- c_filename.dita (File title)
-- t_filename.dita (File title)
-  - t_filename.dita (File title)
+- C_Negative_Space
+- C_Raster_vs_Vector images
+- T_Create_Frame
+- T_Fill_Frame
+- T_Scale_image
+- T_Rotate_Image
+- R_Image_Vectors
+- R_Image_Rasters
+- R_Image_Types
+- R_Hotkeys
+- R_Design_Panel
+
 
 ## Folders &amp; Files
 

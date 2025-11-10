@@ -4,8 +4,8 @@
   <title>Supported Plugins</title>
   <shortdesc>Plugins and extensions are third-party scripts and applications that extend the functionality of Figma's products.
   </shortdesc>
-  <section>There are hundreds of plugins that can be used based on a user's preferences. Some of the most popular include:</section>
   <refbody>
+    <section>There are hundreds of plugins that can be used based on a user's preferences. Some of the most popular include:</section>
     <simpletable>
       <strow>
           <stentry>Iconify: A collection of open-source icon sets for use in Figma. Includes 150+ icon sets and over 200k icons</stentry>

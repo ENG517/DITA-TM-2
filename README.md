@@ -1,10 +1,10 @@
 # DITA Topic Model - Enter Title Here
 
-This repo contains a DITA topic model (TM) ...
+This repo contains a DITA topic model (TM) for three scenario-based procedures related to omage illustration and editing within Figma, a cloud-based design platform where mockup,s prototypes, and projects can be shared in real-time. 
 
 ## Authors
 
-- Wyatt Blanchette, Madelyn Kenney, Deanna Kolski
+Wyatt Blanchette, Madelyn Kenney, Deanna Kolski
 
 ## Project Maps
 

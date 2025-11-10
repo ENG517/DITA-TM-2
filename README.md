@@ -59,7 +59,6 @@ Map Outline:
 - R_Image_Rasters
 - R_Image_Types
 - R_Hotkeys
-- R_Design_Panel
 
 
 ## Folders &amp; Files

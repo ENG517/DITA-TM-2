@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_grayscale">
-  <title>grayscae</title>
+  <title>grayscale</title>
   <shortdesc> Grayscale colors in Figma create neutral-toned versions of colored vectors and
     graphics and aid in accessibility testing of designs to ensure UI constrast remains consistent. </shortdesc>
   <refbody>

@@ -67,15 +67,9 @@
     </topicmeta>
   </topicref>
 
-  <topicref type="reference" href=""  format="ditamap">
+  <topicref type="reference" href="references/r_hot_keys.dita"  format="ditamap">
     <topicmeta>
-      <navtitle>Scaling your image</navtitle>
-    </topicmeta>
-  </topicref>
-
-  <topicref type="reference" href=""  format="ditamap">
-    <topicmeta>
-      <navtitle>Scaling your image</navtitle>
+      <navtitle>Useful hotkeys</navtitle>
     </topicmeta>
   </topicref>
 </map>

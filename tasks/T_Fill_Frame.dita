@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_Fill_Frame">
+  <title>Filling Your Frame</title>
+  <shortdesc>
+    Put an image in your frame
+  </shortdesc>
+  <taskbody>
+    <steps>
+      <step><cmd>Navigate to the properties panel located on the right-hand side.</cmd></step>
+      <step><cmd>Click the "FFFFFF" button underneath the "Fill" property.
+      <image href="assets/images/Properties Panel.png" alt="Properties panel"></image></cmd>
+      <info>Figure: The frame defaults to "FFFFFF," which is a solid white fill.</info></step>
+      <step><cmd>Navigate to the "Image" icon.</cmd></step>
+      <step><cmd>Click "Upload from Computer".</cmd></step>
+      <step><cmd>Import your image.</cmd></step>
+    </steps>
+  </taskbody>
+</task>

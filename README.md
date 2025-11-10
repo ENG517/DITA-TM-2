@@ -10,7 +10,7 @@ This repo contains a DITA topic model (TM) ...
 
 ### User Scenario 1: ...
 
-Description here.
+Samuel has spent the last five years working at a large independent design consultancy that works on everything from graphics and images, web design, products and packaging, to exhibitions and installations. Frequently, he will work cross-functionally with the web designers, who do most of their work in Figma. They consistently extoll the collaborative component of Figma and would like Samuel to start crafting some of his images in the software, even if he does ultimately finish everything in Adobe Illustrator. The final product must align with accessibility standards, particularly for colorblind users
 
 Map Outline:
 - c_filename.dita (File title)
@@ -20,7 +20,9 @@ Map Outline:
 
 ### User Scenario 2: ...
 
-Description here.
+Terrence is a college senior at the Academy of the Arts studying illustration. In his time at school, he has done everything from sample illustrations for advertisements, caricatures for the school's satire newspaper, cartoons, and children's books. 
+
+His real passion, however, lies in concept art. Terrence has always been a sci-fi junkie and enjoys hand-sketching elaborate cityscapes, fantasy backgrounds, and futurist characters and technology. His portfolio of these drawings was so extensive, in fact, that he was able to acquire an internship with Harper Voyager, a sci-fi-focused imprint of Harper Collins. Perhaps even more importantly, Harper Voyager would like to use one of Terrence's drawings for one of their represented writers! His first task is to both digitize and colorize the selected illustration for their use. They would like it to be in vector format to scale up for promotional materials they are going to create to advertise the release of the author's new novel.
 
 Map Outline:
 - c_filename.dita (File title)
@@ -30,7 +32,11 @@ Map Outline:
 
 ### User Scenario 3: ...
 
-Description here.
+Gary has worked as a freelance illustrator in the publishing industry for the past fifteen years and has built relationships with authors and publishing agencies spanning numerous genres, including fantasy, science fiction, comic books, and academic textbooks. Most of the time, Gary will hand off his hand-drawn drawings to either the authors directly or the agency he’s working with, who then handle the digitization of his work.
+
+Recently, Gary was approached by DC Comics to work on a popular comic book series.   He has done some graphic illustrations for this series prior, but never directly worked with DC, which has quite a robust team working on the project both internally and within their parent company, Warner Bros. Discovery. 
+
+The team he’s working on recently transitioned to Figma for its collaborative power, not only amongst the illustrators but also with DC’s in-house web designers. They would like for Gary to give a short virtual presentation of work he’s created prior to the series, and would like his images to be in Figma so other team members can offer real-time feedback and comments.
 
 Map Outline:
 - c_filename.dita (File title)

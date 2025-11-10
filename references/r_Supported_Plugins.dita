@@ -8,22 +8,28 @@
     <section>There are hundreds of plugins that can be used based on a user's preferences. Some of the most popular include:</section>
     <simpletable>
       <strow>
-          <stentry>Iconify: A collection of open-source icon sets for use in Figma. Includes 150+ icon sets and over 200k icons</stentry>
+        <stentry>Iconify: A collection of open-source icon sets for use in Figma. Includes 150+ icon
+          sets and over 200k icons</stentry>
       </strow>
       <strow>
-          <stentry>Unsplash: Accesss and instert images from Unsplash, an image-hosting website.</stentry>
+        <stentry>Unsplash: Accesss and instert images from Unsplash, an image-hosting website.</stentry>
       </strow>
       <strow>
-          <stentry>Figma to Code: Converts Figma layouts into responsive webpages (HTML, Tailwind, Svelte, or styled-components) or mobile apps (Flutter or SwiftUI) while preserving the original design.</stentry>
+        <stentry>Figma to Code: Converts Figma layouts into responsive webpages (HTML, Tailwind,
+          Svelte, or styled-components) or mobile apps (Flutter or SwiftUI) while preserving the
+          original design.</stentry>
       </strow>
       <strow>
-          <stentry>Icons8: Large and consistently maintained collection of icons, photos, and illustrations that can be accessed without leaving Figma.</stentry>
+        <stentry>Icons8: Large and consistently maintained collection of icons, photos, and
+          illustrations that can be accessed without leaving Figma.</stentry>
       </strow>
       <strow>
-          <stentry>html.to.design: Converts any website into fully-editable Figma designs. Save time by not needing to build each element from scratch.</stentry>
+        <stentry>html.to.design: Converts any website into fully-editable Figma designs. Save time
+          by not needing to build each element from scratch.</stentry>
       </strow>
       <strow>
-          <stentry>Anima: Get code based on your design to accelerate the design-to-development process.</stentry>
+        <stentry>Anima: Get code based on your design to accelerate the design-to-development
+          process.</stentry>
       </strow>
     </simpletable>
   </refbody>

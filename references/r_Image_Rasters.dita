@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_enter_unique_id_here">
+  <title>Raster Graphics</title>
+  <shortdesc>Digital images composed of a grid of pixels. As raster graphics are scaled up, quality decreases because they are dependent on resolution.
+  </shortdesc>
+  <refbody>
+    <section>Raster image files are generally larger in size than vector graphic files.</section>
+    <simpletable>
+      <sthead>
+        <stentry>Common raster file formats:</stentry>
+      </sthead>
+      <strow>
+        <stentry>JPEG</stentry>
+      </strow>
+      <strow>
+        <stentry>PNG</stentry>
+      </strow>
+      <strow>
+        <stentry>GIF</stentry>
+      </strow>
+      <strow>
+        <stentry>PSD</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

@@ -61,6 +61,12 @@
     </topicmeta>
   </topicref>
 
+  <topicref type="reference" href="references/R_Image_types.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Supported image/file types</navtitle>
+    </topicmeta>
+  </topicref>
+
   <topicref type="reference" href=""  format="ditamap">
     <topicmeta>
       <navtitle>Scaling your image</navtitle>

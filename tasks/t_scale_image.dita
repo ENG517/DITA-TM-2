@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_enter_unique_id_here">
-  <title></title>
-  <shortdesc>
-
-  </shortdesc>
+<task id="t_scaling_an_image">
+  <title>Scaling an Image</title>
+  <shortdesc>You can scale your image by dragging the corner of your frame. However, there are other methods available to scaling images in Figma.</shortdesc>
   <taskbody>
-
+    <steps>
+      <step>
+        <cmd>Press the K hot key to access the scaling tool. <image href="assets/images/screenshots/Scale Tool.png" alt="Scale Tool"></image></cmd>
+      </step>
+      <step>
+      <cmd>Adjust Height and Width to your liking.</cmd>
+      </step>
+      <step>
+        <cmd>Scale your image proportionally.</cmd>
+      </step>
+      <step>
+        <cmd>Switch back to the move tool by selecting the **"M"** hotkey.</cmd>
+        <info> 
+          <note type="caution">Scaling your image too dramatically may alter the image quality.</note></info>
+      </step>
+    </steps>
   </taskbody>
 </task>

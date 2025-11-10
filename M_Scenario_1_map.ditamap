@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_enter_unique_id">
+  <title>Creating a Grayscaled Image File Using Figma</title>
+  <!-- Concept topics -->
+  <!-- C_Negative Space -->
+  <topicref
+      type="concept"
+      href="concepts/C_Negative_Space.dita"
+      format="ditamap">
+    <topicmeta>
+      <navtitle>Using negative space in design</navtitle>
+    </topicmeta>
+  </topicref>
+  <!-- Task Topics -->
+  <!-- T_Grayscale Using Monomagic -->
+  <topicref
+      type="task"
+      href="tasks/T_Grayscale.dita"
+      format="ditamap">
+    <topicmeta>
+      <navtitle>Grayscale Using Monomagic</navtitle>
+    </topicmeta>
+  </topicref>
+  <!-- T_Testing_Colorblind_Accessibility -->
+  <topicref
+      type="task"
+      href="tasks/T_Testing_colorblind_accessibility.dita"
+      format="ditamap">
+    <topicmeta>
+      <navtitle>Testing Colorblindness Accessibility</navtitle>
+    </topicmeta>
+  </topicref>
+  <!-- Reference Topics -->
+  <!-- R_Hotkeys -->
+  <topicref
+      type="reference"
+      href="references/r_hotkeys.dita"
+      format="ditamap">
+    <topicmeta>
+      <navtitle>Hotkeys</navtitle>
+    </topicmeta>
+  </topicref>
+  <!-- R_Design Panel -->
+  <topicref
+      type="reference"
+      href="references/r_design_panel.dita"
+      format="ditamap">
+    <topicmeta>
+      <navtitle>Design Panel</navtitle>
+    </topicmeta>
+  </topicref>
+  <!-- R_Figma_Draw -->
+  <topicref
+      type="reference"
+      href="references/R_Figma_Draw"
+      format="ditamap">
+    <topicmeta>
+      <navtitle></navtitle>
+    </topicmeta>
+  </topicref>
+</map>

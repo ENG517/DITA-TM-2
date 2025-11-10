@@ -4,7 +4,7 @@ This repo contains a DITA topic model (TM) ...
 
 ## Authors
 
-- Enter names here
+- Wyatt Blanchette, Madelyn Kenney, Deanna Kolski
 
 ## Project Maps
 
@@ -13,10 +13,15 @@ This repo contains a DITA topic model (TM) ...
 Samuel has spent the last five years working at a large independent design consultancy that works on everything from graphics and images, web design, products and packaging, to exhibitions and installations. Frequently, he will work cross-functionally with the web designers, who do most of their work in Figma. They consistently extoll the collaborative component of Figma and would like Samuel to start crafting some of his images in the software, even if he does ultimately finish everything in Adobe Illustrator. The final product must align with accessibility standards, particularly for colorblind users
 
 Map Outline:
-- c_filename.dita (File title)
-- c_filename.dita (File title)
-- t_filename.dita (File title)
-  - t_filename.dita (File title)
+- C_Negative_Space
+- T_Grayscale_using_Monomagic
+- T_Testing_Colorblind_Accessibility
+- R_Grayscale
+- R_Hotkeys
+- R_Design_Panel
+- R_Figma_Draw
+- R_Supported_Plugins
+
 
 ### User Scenario 2: ...
 

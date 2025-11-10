@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_Testing_Colorblind_Accessibility">
+  <title>Testing Colorblind Accessibility</title>
+  <shortdesc> Now that you have for final image, it's time to test for colorblindness accessibility!
+    Testing for accessibility, especially for colorblind users, ensures the final design is visible
+    for individuals with all ranges of color vision deficiency.</shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Download the colorblindness accessibility plugin
+          https://www.figma.com/community/plugin/733343906244951586/color-blind</cmd>
+      </step>
+      <step>
+        <cmd>click <uicontrol>Open In</uicontrol> to access the plugin in your designated Figma
+          project.</cmd>
+      </step>
+      <step>
+        <cmd>Click <uicontrol>Run</uicontrol>.</cmd>
+      </step>
+      <step>
+        <cmd>Select all the types of color vision you would like to emulate</cmd>
+      </step>
+      <step>
+        <cmd>click <uicontrol>Create views</uicontrol>.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_grayscale_palette">
+  <title>Grayscale Palettes</title>
+  <shortdesc>
+    A grayscale palette is a range of shades from black to white, featuring only variations in gray without any color hue
+  </shortdesc>
+  <conbody>
+    <p>
+      A grayscale palette contains only black, white, and gray. The gray has multiple levels to reflect differences in shade, depth, and shadows.
+      Grayscale palettes are often used in design, photography, and art to emphasize contrast, tone, and composition without the distraction of color.
+    </p>
+    <fig>
+      <title>Range of grayscale colors</title>
+      <image href="assets/images/Greyscale color table.webp" alt="Grayscale pallete"></image>
+    </fig>
+    <fig>
+      <title>Image in color vs Image in grayscale</title>
+      <image href="assets/images/Greyscale image in color.jpg" alt="Image in color"></image>
+      <image href="assets/images/Greyscale image.jpg" alt="Image in greyscale"></image>
+    </fig>
+  </conbody>
+</concept>

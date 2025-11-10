@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_exporting_image">
+  <title>Exporting your image from Figma</title>
+  <shortdesc>Once you're satifisfied with your image, it's time to export it!</shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd> Navigate to the right side of the page. </cmd>
+      </step>
+      <step>
+        <cmd>elect the desired file type. </cmd>
+      </step>
+      <step>
+        <cmd>Select <uicontrol>"Eport Untitled"</uicontrol>.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

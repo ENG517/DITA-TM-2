@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_raster_vs_vector">
-  <title></title>
+  <title>Raster vs. Vector</title>
   <shortdesc>
     The two primary image types used in Figma are Raster Images and Vector Images. 
   </shortdesc>

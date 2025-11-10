@@ -1,38 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="r_grayscale">
-  <title>grayscae</title>
-  <shortdesc> Grayscale colors in Figma create neutral-toned versions of colored vectors and
-    graphics and aid in accessibility testing of designs to ensure UI constrast remains consistent. </shortdesc>
+<reference id="r_design_panel">
+  <title>Design Panel</title>
+  <shortdesc> The design panel in Figma is a panel on the right side of the interface that shows and modifies the properties of a selected object, such as a shape, text layer, or image</shortdesc>
   <refbody>
+    <!-- Transformable properties -->
     <section>
-      <title>Definition</title>
-      <p>Grayscaled graphics and images only contain shades of black, white
-      and gray. By sticking with black and white, form, contrast, and fundamental elements like
-      lineand shape are emphasized.</p>
-      <p>By sticking with black and white, form, contrast, and
-      fundamental elements like line and shape are emphasized.</p>
-      <p>While true black and white
-      onlyexist in two HEX codes, gray shades exist across the image in varying levels</p>
+      <title>Transformable properties</title>
+      <p>There are five transformable properties located in the figma design panel</p>
+      <simpletable>
+        <sthead>
+          <stentry>properties</stentry>
+          <stentry>property function</stentry>
+        </sthead>
+        <strow>
+          <stentry>Transforming elements</stentry>
+          <stentry>Position, size, and angle</stentry>
+        </strow>
+        <strow>
+          <stentry>Styling</stentry>
+          <stentry>Fill, stroke, effects</stentry>
+        </strow>
+        <strow>
+          <stentry>Managing Components</stentry>
+           <stentry>Elements of reuse</stentry>
+        </strow>
+        <strow>
+          <stentry>Variables</stentry>
+          <stentry>Color, number, string, booles</stentry>
+        </strow>
+      </simpletable>
     </section>
-    <properties>
-      <prophead>
-        <proptypehd>Shade</proptypehd>
-        <propvaluehd>HEX Value</propvaluehd>
-      </prophead>
-      <property>
-        <proptype>Black</proptype>
-        <propvalue>#000000</propvalue>
-      </property>
-      <property>
-        <proptype>50% Gray</proptype>
-        <propvalue>#808080</propvalue>
-      </property>
-      <property>
-        <proptype>White</proptype>
-        <propvalue>#FFFFFF</propvalue>
-      </property>
-    </properties>
-
   </refbody>
 </reference>

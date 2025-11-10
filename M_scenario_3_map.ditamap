@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="m_enter_unique_id">
-  <title></title>
-  <topicref href="" format="ditamap">
+<map id="M_scenario_3_map">
+  <!-- Concept topics -->
+  <title>Importing Images/Illustratro for Image Editing</title>
+  <topicref type="concept" href="concepts/C_Negative_Space.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Using negative space in design</navtitle>
     </topicmeta>
   </topicref>
+
+  <topicref type="concept" href="concepts/C_Raster_vs_Vector.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>The differences between Raster and Vector image types</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="concept" href="concepts/C_Raster_vs_Vector.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>The differences between Raster and Vector image types</navtitle>
+    </topicmeta>
+  </topicref>
+  <!-- Task topics -->
+
+  <!-- Reference topics -->
 </map>

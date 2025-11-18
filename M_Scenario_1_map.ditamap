@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<!-- LINDGREN COMMENTS
+  - Note the unique ID hasn't been contextualized
+  - I needed to remove all format="ditamap" attributes. THey are in the skeleton, but they are only to be used when the topicref is a .ditamap file.
+  - Also, if the titles are the same in the topics, there's no need to use navtitle, so be sure to double check those items across all maps and topicrefs.
+  - Be sure to use consistent capitalization across all filenaming. There's still lots of errors to resolve.
+-->
 <map id="m_enter_unique_id">
   <title>Creating a Grayscaled Image File Using Figma</title>
   <!-- Concept topics -->
@@ -7,7 +13,7 @@
   <topicref
       type="concept"
       href="concepts/C_Negative_Space.dita"
-      format="ditamap">
+     >
     <topicmeta>
       <navtitle>Using negative space in design</navtitle>
     </topicmeta>
@@ -17,7 +23,7 @@
   <topicref
       type="task"
       href="tasks/T_Grayscale.dita"
-      format="ditamap">
+     >
     <topicmeta>
       <navtitle>Grayscale Using Monomagic</navtitle>
     </topicmeta>
@@ -26,7 +32,7 @@
   <topicref
       type="task"
       href="tasks/T_Testing_colorblind_accessibility.dita"
-      format="ditamap">
+     >
     <topicmeta>
       <navtitle>Testing Colorblindness Accessibility</navtitle>
     </topicmeta>
@@ -36,7 +42,7 @@
   <topicref
       type="reference"
       href="references/r_hotkeys.dita"
-      format="ditamap">
+     >
     <topicmeta>
       <navtitle>Hotkeys</navtitle>
     </topicmeta>
@@ -45,16 +51,19 @@
   <topicref
       type="reference"
       href="references/r_design_panel.dita"
-      format="ditamap">
+     >
     <topicmeta>
       <navtitle>Design Panel</navtitle>
     </topicmeta>
   </topicref>
   <!-- R_Figma_Draw -->
+  <!-- LINDGREN
+    - Needed to add .dita extention
+  -->
   <topicref
       type="reference"
-      href="references/R_Figma_Draw"
-      format="ditamap">
+      href="references/R_Figma_Draw.dita"
+     >
     <topicmeta>
       <navtitle>Figma Draw</navtitle>
     </topicmeta>

@@ -6,7 +6,7 @@
   <taskbody>
     <steps>
       <step>
-        <cmd>Press the K hot key to access the scaling tool. <image href="assets/images/screenshots/Scale Tool.png" alt="Scale Tool"></image></cmd>
+        <cmd>Press the K hot key to access the scaling tool. <image href="../assets/images/screenshots/Scale_Tool.png" alt="Scale Tool"></image></cmd>
       </step>
       <step>
       <cmd>Adjust Height and Width to your liking.</cmd>

@@ -12,7 +12,7 @@
       The other dominant image type is Vector. These images are formed by mathematical equations denoting fixed points on a grid. When vector images are resized their mathematical equations are recalculated, which results in images that remain crisp at any size. However, for all this format's benefits, it often fails to capture the same photorealistic details that raster images do.
       </p>
       <fig>
-        <image href="assets/images/Raster vs Vector.png" alt="Raster vs Vector images"></image>
+        <image href="../assets/images/Raster_vs_Vector.png" alt="Raster vs Vector images"></image>
       </fig>
   </conbody>
 </concept>

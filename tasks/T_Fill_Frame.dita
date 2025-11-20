@@ -9,7 +9,7 @@
     <steps>
       <step><cmd>Navigate to the properties panel located on the right-hand side.</cmd></step>
       <step><cmd>Click the "FFFFFF" button underneath the "Fill" property.
-      <image href="assets/images/Properties Panel.png" alt="Properties panel"></image></cmd>
+      <image href="../assets/images/Properties_Panel.png" alt="Properties panel"></image></cmd>
       <info>Figure: The frame defaults to "FFFFFF," which is a solid white fill.</info></step>
       <step><cmd>Navigate to the "Image" icon.</cmd></step>
       <step audience="novice"><cmd>Click "Upload from Computer".</cmd></step>

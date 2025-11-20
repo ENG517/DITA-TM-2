@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_design_panel">
+  <title>Design Panel</title>
+  <shortdesc> The design panel in Figma is a panel on the right side of the interface that shows and modifies the properties of a selected object, such as a shape, text layer, or image</shortdesc>
+  <refbody>
+    <!-- Transformable properties -->
+    <section>
+      <title>Transformable properties</title>
+      <p>There are five transformable properties located in the figma design panel</p>
+      <simpletable>
+        <sthead>
+          <stentry>properties</stentry>
+          <stentry>property function</stentry>
+        </sthead>
+        <strow>
+          <stentry>Transforming elements</stentry>
+          <stentry>Position, size, and angle</stentry>
+        </strow>
+        <strow>
+          <stentry>Styling</stentry>
+          <stentry>Fill, stroke, effects</stentry>
+        </strow>
+        <strow>
+          <stentry>Managing Components</stentry>
+           <stentry>Elements of reuse</stentry>
+        </strow>
+        <strow>
+          <stentry>Variables</stentry>
+          <stentry>Color, number, string, booles</stentry>
+        </strow>
+      </simpletable>
+    </section>
+  </refbody>
+</reference>

@@ -2,26 +2,25 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_hot_keys">
   <title>Useful Hot Keys</title>
-  <shortdesc>
-    Figma keyboard shortcuts allow users to access key tools and features in a single action.
-  </shortdesc>
+  <shortdesc> Figma keyboard shortcuts allow users to access key tools and features in a single
+    action. </shortdesc>
   <!-- Useful Hot Keys -->
-   <refbody>
+  <refbody>
     <section>
       <title>Useful Figma keyborad shortcuts</title>
     <simpletable>
-      <sthead>
-        <stentry>Shortcuts</stentry>
-        <stentry>Accessed Feature</stentry>
-      </sthead>
-      <strow>
-        <stentry>V</stentry>
-        <stentry>Move Tool</stentry>
-      </strow>
-      <strow>
-        <stentry>F</stentry>
-        <stentry>Frame Tool</stentry>
-      </strow>
+        <sthead>
+          <stentry>Shortcuts</stentry>
+          <stentry>Accessed Feature</stentry>
+        </sthead>
+        <strow>
+          <stentry>V</stentry>
+          <stentry>Move Tool</stentry>
+        </strow>
+        <strow>
+          <stentry>F</stentry>
+          <stentry>Frame Tool</stentry>
+        </strow>
         <strow>
           <stentry>K</stentry>
           <stentry>Scale Tool</stentry>
@@ -34,7 +33,7 @@
           <stentry>C</stentry>
           <stentry>Add Comment</stentry>
         </strow>
-    </simpletable>
+      </simpletable>
     </section>
-   </refbody>
+  </refbody>
 </reference>

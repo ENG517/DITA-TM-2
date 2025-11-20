@@ -11,7 +11,7 @@
       <p>Different image formats are ideal for different image types. (link to file type ref topic can go here)</p>
     </prereq>
     <steps>
-      <step><cmd>Open a new Figma workspace.</cmd></step>
+      <step audience="novice"><cmd>Open a new Figma workspace.</cmd></step>
       <step><cmd>Navigate to the toolbar located at the bottom of the page.</cmd></step>
       <step><cmd>Select the Frame Tool, located in the second dropdown menu from the left.
       <image href="assets/images/Frame Toolbar Menu.png" alt="The Figma toolbar menu."></image>

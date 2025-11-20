@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<!-- LINDGREN COMMENTS
+  - Note the unique ID hasn't been contextualized
+  - I needed to remove all format="ditamap" attributes. THey are in the skeleton, but they are only to be used when the topicref is a .ditamap file.
+  - Also, if the titles are the same in the topics, there's no need to use navtitle, so be sure to double check those items across all maps and topicrefs.
+  - Be sure to use consistent capitalization across all filenaming. There's still lots of errors to resolve.
+-->
+<map id="m_crafting_grayscale_images">
+  <title>Creating a Grayscaled Image File Using Figma</title>
+  <!-- Concept topics -->
+  <!-- C_Graysale pallette -->
+  <topicref
+      type="concept"
+      href="concepts/C_Grayscale_palette.dita"
+     >
+  </topicref>
+  <!-- C_Negative Space -->
+  <topicref
+      type="concept"
+      href="concepts/C_Negative_Space.dita"
+     >
+    <topicmeta>
+      <navtitle>Negative Space in Design</navtitle>
+    </topicmeta>
+  </topicref>
+  <!-- Task Topics -->
+  <!-- T_Grayscale Using Monomagic -->
+  <topicref
+      type="task"
+      href="tasks/T_Grayscale_using_monomagic.dita"
+     >
+  </topicref>
+  <!-- T_Testing_Colorblind_Accessibility -->
+  <topicref
+      type="task"
+      href="tasks/t_Testing_Colorblind_Accessibility.dita"
+     >
+  </topicref>
+  <!-- Reference Topics -->
+  <!-- R_Hotkeys -->
+  <topicref
+      type="reference"
+      href="references/r_hot_keys.dita"
+     >
+    <topicmeta>
+      <navtitle>Hot keys</navtitle>
+    </topicmeta>
+  </topicref>
+  <!-- R_Design Panel -->
+  <topicref
+      type="reference"
+      href="references/r_design_panel.dita"
+     >
+    <topicmeta>
+      <navtitle>Design Panel</navtitle>
+    </topicmeta>
+  </topicref>
+</map>

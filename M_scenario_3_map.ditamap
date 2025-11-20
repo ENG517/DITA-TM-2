@@ -17,9 +17,18 @@
     </topicmeta>
   </topicref>
 
+  <topicref type="concept" href="concepts/C_Raster_vs_Vector.dita">
+    <topicmeta>
+      <navtitle>The differences between Raster and Vector image types</navtitle>
+    </topicmeta>
+  </topicref>
+
   <!-- Task topics -->
 
   <topicref type="task" href="tasks/T_Create_Frame.dita">
+    <topicmeta>
+      <navtitle>Creating a Frame</navtitle>
+    </topicmeta>
   </topicref>
 
   <topicref type="task" href="tasks/T_Fill_Frame.dita">
@@ -34,7 +43,7 @@
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="tasks/t_rotate_image.dita" >
+  <topicref type="task" href="tasks/t_rotate_image.dita">
     <topicmeta>
       <navtitle>Rotating your image</navtitle>
     </topicmeta>
@@ -42,13 +51,19 @@
 
   <!-- Reference topics -->
 
-  <topicref type="reference" href="references/r_image_vectors.dita" >
+  <topicref type="reference" href="references/r_image_vectors.dita">
+    <topicmeta>
+      <navtitle>Vector images</navtitle>
+    </topicmeta>
   </topicref>
 
-  <topicref type="reference" href="references/r_Image_Rasters.dita" >
+  <topicref type="reference" href="references/r_Image_Rasters.dita">
+    <topicmeta>
+      <navtitle>Raster images</navtitle>
+    </topicmeta>
   </topicref>
 
-  <topicref type="reference" href="references/R_Image_types.dita" >
+  <topicref type="reference" href="references/R_Image_types.dita">
     <topicmeta>
       <navtitle>Supported image/file types</navtitle>
     </topicmeta>

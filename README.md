@@ -14,12 +14,12 @@ Samuel has spent the last five years working at a large independent design consu
 
 Map Outline:
 - C_Negative_Space
+- C_Grayscale_Palette
 - T_Grayscale_using_Monomagic
 - T_Testing_Colorblind_Accessibility
 - R_Grayscale
 - R_Hotkeys
 - R_Design_Panel
-- R_Figma_Draw
 - R_Supported_Plugins
 
 

@@ -18,6 +18,12 @@
       <navtitle>Using negative space in design</navtitle>
     </topicmeta>
   </topicref>
+  <!-- C_Graysale pallette -->
+  <topicref
+      type="concept"
+      href="concepts/C_Grayscale_palette.dita"
+     >
+  </topicref>
   <!-- Task Topics -->
   <!-- T_Grayscale Using Monomagic -->
   <topicref
@@ -31,7 +37,7 @@
   <!-- T_Testing_Colorblind_Accessibility -->
   <topicref
       type="task"
-      href="tasks/T_Testing_colorblind_accessibility.dita"
+      href="tasks/t_Testing_Colorblind_Accessibility.dita"
      >
     <topicmeta>
       <navtitle>Testing Colorblindness Accessibility</navtitle>

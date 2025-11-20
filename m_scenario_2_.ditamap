@@ -7,7 +7,7 @@
   <topicref
       type="concept"
       href="concepts/C_Negative_Space.dita"
-      format="ditamap">
+     >
     <topicmeta>
       <navtitle>Using negative space in design</navtitle>
     </topicmeta>
@@ -16,7 +16,7 @@
   <topicref
       type="concept"
       href="concepts/Bitmap.dita"
-      format="ditamap">
+     >
     <topicmeta>
       <navtitle>Bitmaps are used for raster images</navtitle>
     </topicmeta>
@@ -26,7 +26,7 @@
   <topicref
       type="task"
       href="tasks/T_Create_Frame.dita"
-      format="ditamap">
+     >
     <topicmeta>
       <navtitle>Creating a frame</navtitle>
     </topicmeta>
@@ -35,7 +35,7 @@
   <topicref
       type="task"
       href="tasks/T_Fill_Frame.dita"
-      format="ditamap">
+     >
     <topicmeta>
       <navtitle>Filling a frame</navtitle>
     </topicmeta>
@@ -44,7 +44,7 @@
   <topicref
       type="task"
       href="tasks/T_scale_image.dita"
-      format="ditamap">
+     >
     <topicmeta>
       <navtitle>Scalinng an image</navtitle>
     </topicmeta>
@@ -53,7 +53,7 @@
 <topicref
       type="task"
       href="tasks/T_Exporting_your_Image.dita"
-      format="ditamap">
+     >
     <topicmeta>
       <navtitle>Exporting Your Image</navtitle>
     </topicmeta>
@@ -63,7 +63,7 @@
   <topicref
       type="reference"
       href="references/r_hotkeys.dita"
-      format="ditamap">
+     >
     <topicmeta>
       <navtitle>Hotkeys</navtitle>
     </topicmeta>
@@ -72,7 +72,7 @@
   <topicref
       type="reference"
       href="references/r_design_panel.dita"
-      format="ditamap">
+     >
     <topicmeta>
       <navtitle>Design Panel</navtitle>
     </topicmeta>
@@ -81,7 +81,7 @@
   <topicref
       type="reference"
       href="references/R_Image_types"
-      format="ditamap">
+     >
     <topicmeta>
       <navtitle>Different image types</navtitle>
     </topicmeta>
@@ -90,7 +90,7 @@
  <topicref
       type="reference"
       href="references/R_image_vectors"
-      format="ditamap">
+     >
     <topicmeta>
       <navtitle>Image vectors</navtitle>
     </topicmeta>

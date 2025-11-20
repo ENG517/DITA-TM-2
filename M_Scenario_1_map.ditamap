@@ -9,6 +9,12 @@
 <map id="m_crafting_grayscale_images">
   <title>Creating a Grayscaled Image File Using Figma</title>
   <!-- Concept topics -->
+  <!-- C_Graysale pallette -->
+  <topicref
+      type="concept"
+      href="concepts/C_Grayscale_palette.dita"
+     >
+  </topicref>
   <!-- C_Negative Space -->
   <topicref
       type="concept"
@@ -17,12 +23,6 @@
     <topicmeta>
       <navtitle>Using negative space in design</navtitle>
     </topicmeta>
-  </topicref>
-  <!-- C_Graysale pallette -->
-  <topicref
-      type="concept"
-      href="concepts/C_Grayscale_palette.dita"
-     >
   </topicref>
   <!-- Task Topics -->
   <!-- T_Grayscale Using Monomagic -->

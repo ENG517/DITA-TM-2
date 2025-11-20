@@ -13,8 +13,8 @@ Wyatt Blanchette, Madelyn Kenney, Deanna Kolski
 Samuel has spent the last five years working at a large independent design consultancy that works on everything from graphics and images, web design, products and packaging, to exhibitions and installations. Frequently, he will work cross-functionally with the web designers, who do most of their work in Figma. They consistently extoll the collaborative component of Figma and would like Samuel to start crafting some of his images in the software, even if he does ultimately finish everything in Adobe Illustrator. The final product must align with accessibility standards, particularly for colorblind users
 
 Map Outline:
-- C_Negative_Space
 - C_Grayscale_Palette
+- C_Negative_Space
 - T_Grayscale_using_Monomagic
 - T_Testing_Colorblind_Accessibility
 - R_Grayscale

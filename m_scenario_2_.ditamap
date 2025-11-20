@@ -15,7 +15,7 @@
     <!-- C_Bitmap-->
   <topicref
       type="concept"
-      href="concepts/Bitmap.dita"
+      href="concepts/C_Bitmap.dita"
      >
     <topicmeta>
       <navtitle>Bitmaps are used for raster images</navtitle>
@@ -43,7 +43,7 @@
   <!-- T_scale_image-->
   <topicref
       type="task"
-      href="tasks/T_scale_image.dita"
+      href="tasks/t_scale_image.dita"
      >
     <topicmeta>
       <navtitle>Scalinng an image</navtitle>
@@ -62,7 +62,7 @@
   <!-- R_Hotkeys -->
   <topicref
       type="reference"
-      href="references/r_hotkeys.dita"
+      href="references/r_hot_keys.dita"
      >
     <topicmeta>
       <navtitle>Hotkeys</navtitle>
@@ -80,7 +80,7 @@
   <!-- R_Image_types -->
   <topicref
       type="reference"
-      href="references/R_Image_types"
+      href="references/R_Image_types.dita"
      >
     <topicmeta>
       <navtitle>Different image types</navtitle>
@@ -89,7 +89,7 @@
 <!-- r_image_vectors -->
  <topicref
       type="reference"
-      href="references/R_image_vectors"
+      href="references/r_image_vectors.dita"
      >
     <topicmeta>
       <navtitle>Image vectors</navtitle>

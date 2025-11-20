@@ -9,7 +9,7 @@
         <cmd>Select your image.</cmd>
       </step>
       <step>
-        <cmd>Navigate to the the rotation field in the design panel, which should have an angle icon next to it. <image href="../assets/images/screenshots/Rotation_Tool.png" ></image></cmd>
+        <cmd>Navigate to the the rotation field in the design panel, which should have an angle icon next to it. <image href="../assets/images/Rotation_Tool.png" ></image></cmd>
       </step>
       <step>
         <cmd>Enter your desired degree value.</cmd>

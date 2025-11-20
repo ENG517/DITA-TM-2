@@ -22,7 +22,7 @@
   <!-- T_Grayscale Using Monomagic -->
   <topicref
       type="task"
-      href="tasks/T_Grayscale.dita"
+      href="tasks/T_Grayscale_using_monomagic.dita"
      >
     <topicmeta>
       <navtitle>Grayscale Using Monomagic</navtitle>
@@ -41,7 +41,7 @@
   <!-- R_Hotkeys -->
   <topicref
       type="reference"
-      href="references/r_hotkeys.dita"
+      href="references/r_hot_keys.dita"
      >
     <topicmeta>
       <navtitle>Hotkeys</navtitle>
@@ -60,12 +60,5 @@
   <!-- LINDGREN
     - Needed to add .dita extention
   -->
-  <topicref
-      type="reference"
-      href="references/R_Figma_Draw.dita"
-     >
-    <topicmeta>
-      <navtitle>Figma Draw</navtitle>
-    </topicmeta>
-  </topicref>
+
 </map>

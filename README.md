@@ -18,7 +18,7 @@ Map Outline:
 - T_Grayscale_using_Monomagic
 - T_Testing_Colorblind_Accessibility
 - R_Grayscale
-- R_Hotkeys
+- R_hot_keys
 - R_Design_Panel
 - R_Supported_Plugins
 

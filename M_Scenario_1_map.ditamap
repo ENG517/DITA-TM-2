@@ -21,7 +21,7 @@
       href="concepts/C_Negative_Space.dita"
      >
     <topicmeta>
-      <navtitle>Using negative space in design</navtitle>
+      <navtitle>Negative Space in Design</navtitle>
     </topicmeta>
   </topicref>
   <!-- Task Topics -->
@@ -30,18 +30,12 @@
       type="task"
       href="tasks/T_Grayscale_using_monomagic.dita"
      >
-    <topicmeta>
-      <navtitle>Grayscale Using Monomagic</navtitle>
-    </topicmeta>
   </topicref>
   <!-- T_Testing_Colorblind_Accessibility -->
   <topicref
       type="task"
       href="tasks/t_Testing_Colorblind_Accessibility.dita"
      >
-    <topicmeta>
-      <navtitle>Testing Colorblindness Accessibility</navtitle>
-    </topicmeta>
   </topicref>
   <!-- Reference Topics -->
   <!-- R_Hotkeys -->
@@ -50,7 +44,7 @@
       href="references/r_hot_keys.dita"
      >
     <topicmeta>
-      <navtitle>Hotkeys</navtitle>
+      <navtitle>Hot keys</navtitle>
     </topicmeta>
   </topicref>
   <!-- R_Design Panel -->

@@ -6,7 +6,7 @@
   - Also, if the titles are the same in the topics, there's no need to use navtitle, so be sure to double check those items across all maps and topicrefs.
   - Be sure to use consistent capitalization across all filenaming. There's still lots of errors to resolve.
 -->
-<map id="m_Crafting_Grayscale_Images">
+<map id="m_crafting_grayscale_images">
   <title>Creating a Grayscaled Image File Using Figma</title>
   <!-- Concept topics -->
   <!-- C_Negative Space -->

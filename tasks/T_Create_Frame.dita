@@ -14,7 +14,7 @@
       <step audience="novice"><cmd>Open a new Figma workspace.</cmd></step>
       <step><cmd>Navigate to the toolbar located at the bottom of the page.</cmd></step>
       <step><cmd>Select the Frame Tool, located in the second dropdown menu from the left.
-      <image href="assets/images/Frame Toolbar Menu.png" alt="The Figma toolbar menu."></image>
+      <image href="../assets/images/Frame_Toolbar_Menu.png" alt="The Figma toolbar menu."></image>
       </cmd></step>
      <step><cmd>Resize your frame by dragging its corners.</cmd></step>
     </steps>

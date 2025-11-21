@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_HEX-Values">
+  <!-- LINDGREN:
+    - Title is strange, but also doesn't include RGB Values
+    - If this is truly about reference material for the respective color codes, then I recommend a ref topic per type.
+    - RE: the properties table: To me, a properties table would take a Color, Hexcode Value, Description of the hexcode that produces that color, which reinforces the idea to separate out the types of color codes into distinct ref topics. Here's how the table would change.
+        - Red | #FF0000 | Explain the code here
+  -->
   <title>hexvalues</title>
   <shortdesc>This defines HEX Values and provides a table for different colors and their associated
     HEX value and RGB Value</shortdesc>
   <refbody>
-    <!-- Definition -->
     <section>
-      <!-- Definition -->
-      <title>Definition</title>
-      <p>A HEX Value is a color code that tells computers and
+      <!-- <title>Definition</title> -->
+      <title>What are Hexadecimal Color Codes?</title>
+      <!-- <p>A HEX Value is a color code that tells computers and
       devices which color to display using three pairs of digitals, representing the red, green, and
-      blue RGB values.</p>
+      blue RGB values.</p> -->
+      <p>
+        A HEX Value is a color code that tells computers and devices which color to display using three pairs of digitals, representing the red, green, and blue RGB values.
+      </p>
     </section>
     <!-- Table of HEX Codes, RGB Codes, and Colors -->
     <properties>

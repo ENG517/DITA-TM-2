@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="m_vectorizing_image">
+  <!-- LINDGREN:
+    - After reviewing the output procedure, I do not see an explicit result to produce a vectorized image from a bitmap file.
+    - Be sure to resolve the indenation issues in this file and in all other files. One automated method includes the VS Code option of "Reformat Document". But, as a word of caution, you would need to make sure folks have the same settings as you.
+  -->
   <title>Vectorizing an Image</title>
-<!-- Concept topics -->
-  <!-- C_Negative_Space-->
-  <topicref
-      type="concept"
-      href="concepts/C_Negative_Space.dita"
-     >
+  <!-- Concept topics -->
+  <topicref type="concept" href="concepts/C_Negative_Space.dita">
     <topicmeta>
       <navtitle>Using negative space in design</navtitle>
     </topicmeta>

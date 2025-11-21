@@ -2,13 +2,39 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_hot_keys">
   <title>Useful Hot Keys</title>
-  <shortdesc> Figma keyboard shortcuts allow users to access key tools and features in a single
-    action. </shortdesc>
+  <shortdesc>
+    Figma keyboard shortcuts allow users to access key tools and features in a single action.
+  </shortdesc>
   <!-- Useful Hot Keys -->
   <refbody>
-    <section>
-      <title>Useful Figma keyborad shortcuts</title>
-    <simpletable>
+    <!-- <section> -->
+      <!-- <title>Useful Figma keyborad shortcuts</title> -->
+      <!-- LINDGREN
+        - I rec a properties table, as you should always provide a description too
+      -->
+    <properties>
+      <prophead>
+        <proptypehd>Hot Key</proptypehd>
+        <propvaluehd>Accessed Feature</propvaluehd>
+        <propdeschd>Feature Action</propdeschd>
+      </prophead>
+
+      <property>
+        <proptype>
+          <uicontrol>V</uicontrol>
+        </proptype>
+        <propvalue>
+          <image href="./../assets/images/ui/figma-move-tool--selected.png" width="15"></image> <uicontrol>Move Tool</uicontrol>
+        </propvalue>
+        <propdesc>
+          Enter short description here.
+        </propdesc>
+      </property>
+      <!-- Rinse & Repeat -->
+
+    </properties>
+
+    <!-- <simpletable>
         <sthead>
           <stentry>Shortcuts</stentry>
           <stentry>Accessed Feature</stentry>
@@ -33,7 +59,7 @@
           <stentry>C</stentry>
           <stentry>Add Comment</stentry>
         </strow>
-      </simpletable>
-    </section>
+      </simpletable> -->
+    <!-- </section> -->
   </refbody>
 </reference>

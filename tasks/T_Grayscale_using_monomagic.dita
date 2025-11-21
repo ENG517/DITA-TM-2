@@ -2,23 +2,43 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_enter_unique_id_here">
   <title>Grayscaling your Image using Monomagic</title>
-  <shortdesc> While it is possible to apply a grayscale mask in Figma using the saturation slider,
-    to convert your image itself to grayscale will require a third party plugin. I recommend
-    MonoMagic for its easy to use interface and seamless interaction with Figma. </shortdesc>
+  <!-- <shortdesc>
+    While it is possible to apply a grayscale mask in Figma using the saturation slider, to convert your image itself to grayscale will require a third party plugin. I recommend MonoMagic for its easy to use interface and seamless interaction with Figma.
+  </shortdesc> -->
+  <shortdesc>
+    While it is possible to apply a grayscale mask in Figma using the saturation slider, to convert your image itself to grayscale will require a third party plugin. I recommend MonoMagic for its easy to use interface and seamless interaction with Figma.
+  </shortdesc>
   <taskbody>
     <prereq>
-      <p>Download and install the Monomagic plugin.</p>
+      <p>
+        Before you begin, be sure to complete the following prerequisites.
+      </p>
+      <ul>
+        <li>Download and install the Monomagic plugin.</li>
+      </ul>
+      <sectiondiv>
+        <p conref="../concepts/C_Grayscale_palette.dita#c_grayscale_palette/c__what_are_gsps_p" audience="novice"></p>
+        <fig conref="../concepts/C_Grayscale_palette.dita#c_grayscale_palette/c__what_are_gsps_fig__ranges" audience="novice"></fig>
+      </sectiondiv>
     </prereq>
     <steps>
       <step>
         <cmd>Hover over the open in button on the Monomagic page.</cmd>
+        <!-- Is "open in button" a uicontrol? -->
       </step>
       <step>
         <cmd>Open the plugin in the environment we've been working in.</cmd>
+        <!-- What environment? What UI control is being used here? -->
       </step>
       <step>
         <cmd>Select your image.</cmd>
+        <!-- How does one select an image? Should the user expect a dialog box to appear? What uicontrol exists? -->
       </step>
+      <!-- LINDGREN:
+        - It feels like there are steps missing. What should the user expect to happen? Consider `stepresult` as an element to use. Also, consider taking screenshots of UI elements to use within the cmd itself. Refer to the Inkscape demo code for examples.
+        - Also, consider using the `result` element to demonstrate the expected result of the procedure overall.
+        - Be sure to use uicontrol, when appropriate throughout your model.
+        -->
     </steps>
   </taskbody>
 </task>

@@ -3,7 +3,8 @@
 <map id="m_vectorizing_image">
   <!-- LINDGREN:
     - After reviewing the output procedure, I do not see an explicit result to produce a vectorized image from a bitmap file.
-    - Be sure to resolve the indenation issues in this file and in all other files. One automated method includes the VS Code option of "Reformat Document". But, as a word of caution, you would need to make sure folks have the same settings as you.
+    - Resolve the indentation issues in this file and in all other files. I also recommend putting the attributes on one line for the topicref elements, simply because your approach really elongates the file.
+    - Reconsider the navtitle usage. If your titles are the same in the topic file, there's no need to add the navtitle here.
   -->
   <title>Vectorizing an Image</title>
   <!-- Concept topics -->

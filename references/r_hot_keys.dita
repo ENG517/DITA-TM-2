@@ -7,8 +7,7 @@
   </shortdesc>
   <!-- Useful Hot Keys -->
   <refbody>
-    <!-- <section> -->
-      <!-- <title>Useful Figma keyborad shortcuts</title> -->
+       <title>Useful Figma keyborad shortcuts</title> 
       <!-- LINDGREN
         - I rec a properties table, as you should always provide a description too
       -->
@@ -18,7 +17,6 @@
         <propvaluehd>Accessed Feature</propvaluehd>
         <propdeschd>Feature Action</propdeschd>
       </prophead>
-
       <property>
         <proptype>
           <uicontrol>V</uicontrol>
@@ -30,11 +28,10 @@
           Enter short description here.
         </propdesc>
       </property>
-      <!-- Rinse & Repeat -->
-
     </properties>
-
-    <!-- <simpletable>
+    <section>
+      <title>Keyboard Shortcut Table</title>
+    <simpletable>
         <sthead>
           <stentry>Shortcuts</stentry>
           <stentry>Accessed Feature</stentry>
@@ -59,7 +56,7 @@
           <stentry>C</stentry>
           <stentry>Add Comment</stentry>
         </strow>
-      </simpletable> -->
-    <!-- </section> -->
+      </simpletable> 
+    </section>
   </refbody>
 </reference>

@@ -31,7 +31,7 @@
        <proptype>
           <uicontrol>F</uicontrol>
         </proptype>
-        <propvalue>Frame Tool</propvalue>
+        <propvalue><uicontrol>Frame Tool. </uicontrol></propvalue>
         <propdesc>The frame tool allows you to place a frame.</propdesc>
       </property>
       <!-- K -->
@@ -39,7 +39,7 @@
        <proptype>
           <uicontrol>K</uicontrol>
         </proptype>
-        <propvalue>Scale Tool</propvalue>
+        <propvalue><uicontrol>Scale Tool </uicontrol></propvalue>
         <propdesc>The scale tool is used to resize images.</propdesc>
       </property>
       <!-- CTRL A -->
@@ -47,7 +47,7 @@
        <proptype>
           <uicontrol>CTRL A</uicontrol>
         </proptype>
-        <propvalue>Select All</propvalue>
+        <propvalue><uicontrol>Select All </uicontrol></propvalue>
         <propdesc>This shorcut selects all layers and objects.</propdesc>
       </property>
       <!-- C -->
@@ -55,7 +55,7 @@
        <proptype>
           <uicontrol>C</uicontrol>
         </proptype>
-        <propvalue>Add Comment</propvalue>
+        <propvalue> <uicontrol>Add Comment </uicontrol></propvalue>
         <propdesc>This allows you to provide feedback on user actions.</propdesc>
       </property>
 

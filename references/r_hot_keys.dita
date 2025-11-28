@@ -7,7 +7,6 @@
   </shortdesc>
   <!-- Useful Hot Keys -->
   <refbody>
-       <title>Useful Figma keyborad shortcuts</title> 
       <!-- LINDGREN
         - I rec a properties table, as you should always provide a description too
       -->
@@ -17,6 +16,7 @@
         <propvaluehd>Accessed Feature</propvaluehd>
         <propdeschd>Feature Action</propdeschd>
       </prophead>
+      <!-- V -->
       <property>
         <proptype>
           <uicontrol>V</uicontrol>
@@ -24,39 +24,45 @@
         <propvalue>
           <image href="./../assets/images/ui/figma-move-tool--selected.png" width="15"></image> <uicontrol>Move Tool</uicontrol>
         </propvalue>
-        <propdesc>
-          Enter short description here.
-        </propdesc>
+        <propdesc>The move tool helps you select and reposition objects in Figma.</propdesc>
       </property>
+      <!-- F -->
+      <property>
+       <proptype>
+          <uicontrol>F</uicontrol>
+        </proptype>
+        <propvalue>Frame Tool</propvalue>
+        <propdesc>The frame tool allows you to place a frame.</propdesc>
+      </property>
+      <!-- K -->
+      <property>
+       <proptype>
+          <uicontrol>K</uicontrol>
+        </proptype>
+        <propvalue>Scale Tool</propvalue>
+        <propdesc>The scale tool is used to resize images.</propdesc>
+      </property>
+      <!-- CTRL A -->
+      <property>
+       <proptype>
+          <uicontrol>CTRL A</uicontrol>
+        </proptype>
+        <propvalue>Select All</propvalue>
+        <propdesc>This shorcut selects all layers and objects.</propdesc>
+      </property>
+      <!-- C -->
+      <property>
+       <proptype>
+          <uicontrol>C</uicontrol>
+        </proptype>
+        <propvalue>Add Comment</propvalue>
+        <propdesc>This allows you to provide feedback on user actions.</propdesc>
+      </property>
+
     </properties>
     <section>
-      <title>Keyboard Shortcut Table</title>
-    <simpletable>
-        <sthead>
-          <stentry>Shortcuts</stentry>
-          <stentry>Accessed Feature</stentry>
-        </sthead>
-        <strow>
-          <stentry>V</stentry>
-          <stentry>Move Tool</stentry>
-        </strow>
-        <strow>
-          <stentry>F</stentry>
-          <stentry>Frame Tool</stentry>
-        </strow>
-        <strow>
-          <stentry>K</stentry>
-          <stentry>Scale Tool</stentry>
-        </strow>
-        <strow>
-          <stentry>Ctrl A</stentry>
-          <stentry>Select All</stentry>
-        </strow>
-        <strow>
-          <stentry>C</stentry>
-          <stentry>Add Comment</stentry>
-        </strow>
-      </simpletable> 
+      <title>Keyboard shortcuts</title>
+      <p>This table provides important shortcuts in Figma</p>
     </section>
   </refbody>
 </reference>

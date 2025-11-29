@@ -3,21 +3,40 @@
 <concept id="c_grayscale_palette">
   <title>Grayscale Palettes</title>
   <shortdesc>
-    A grayscale palette is a range of shades from black to white, featuring only variations in gray without any color hue
+    [Enter short description that follows the typical moves noted in Bellamy et al.]
   </shortdesc>
   <conbody>
-    <p>
+    <!-- LINDGREN
+      - After I If you read through your PDF's output, it reads a little strange, so I would consider how DITA is an ecosystem, wherein you can select scoped of content that support your output needs. I offer y'all some small changes below and in your ditamap to demonstrate an alternative use of this conceptual information, so that if your task.
+      - Added section elements to divide the 2 ideas introduced in your first paragraph. Obviously, you would need to
+    -->
+    <!-- <p>
       A grayscale palette contains only black, white, and gray. The gray has multiple levels to reflect differences in shade, depth, and shadows.
       Grayscale palettes are often used in design, photography, and art to emphasize contrast, tone, and composition without the distraction of color.
-    </p>
-    <fig>
-      <title>Range of grayscale colors</title>
-      <image href="../assets/images/Greyscale_color_table.jpg" alt="Grayscale pallete"></image>
-    </fig>
-    <fig>
-      <title>Image in color vs Image in grayscale</title>
-      <image href="../assets/images/Greyscale_image_in_color.jpg" alt="Image in color" width="400"></image>
-      <image href="../assets/images/Greyscale_image.jpg" alt="Image in greyscale" width="400"></image>
-    </fig>
+    </p> -->
+    <section id="c__what_are_gsps">
+      <title>What are Grayscale Pallettes?</title>
+      <p id="c__what_are_gsps_p">
+        A grayscale palette is a range of shades from black to white, featuring only variations in gray without any color hue. It contains only black, white, and gray. The gray has multiple levels to reflect differences in shade, depth, and shadows.
+      </p>
+      <!-- LINDGREN
+        - Note the changes to the widths for consistency and also so they fit. There are still a few spots, where you should verify the output sizing and resolve any issues, where the images render inconsistently or even break the page.
+      -->
+      <fig id="c__what_are_gsps_fig__ranges">
+        <title>Range of grayscale colors</title>
+        <image href="../assets/images/Greyscale_color_table.jpg" alt="Grayscale pallete" width="200"></image>
+      </fig>
+      <fig>
+        <title>Image in color vs Image in grayscale</title>
+        <image href="../assets/images/Greyscale_image_in_color.jpg" alt="Image in color" width="200"></image>
+        <image href="../assets/images/Greyscale_image.jpg" alt="Image in greyscale" width="200"></image>
+      </fig>
+    </section>
+    <section>
+      <title>How are Grayscale Pallettes Used?</title>
+      <p>
+        Grayscale palettes are often used in design, photography, and art to emphasize contrast, tone, and composition without the distraction of color.
+      </p>
+    </section>
   </conbody>
 </concept>

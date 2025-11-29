@@ -10,20 +10,17 @@
   <title>Creating a Grayscaled Image File Using Figma</title>
   <!-- Concept topics -->
   <!-- C_Graysale pallette -->
-  <topicref
-      type="concept"
-      href="concepts/C_Grayscale_palette.dita"
-     >
-  </topicref>
+  <topicref type="concept" href="concepts/C_Grayscale_palette.dita" toc="no" print="no" />
+
   <!-- C_Negative Space -->
-  <topicref
+  <!-- <topicref
       type="concept"
       href="concepts/C_Negative_Space.dita"
      >
     <topicmeta>
       <navtitle>Negative Space in Design</navtitle>
     </topicmeta>
-  </topicref>
+  </topicref> -->
   <!-- Task Topics -->
   <!-- T_Grayscale Using Monomagic -->
   <topicref

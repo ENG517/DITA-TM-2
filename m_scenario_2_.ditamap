@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="m_vectorizing_image">
+  <!-- LINDGREN:
+    - After reviewing the output procedure, I do not see an explicit result to produce a vectorized image from a bitmap file.
+    - Resolve the indentation issues in this file and in all other files. I also recommend putting the attributes on one line for the topicref elements, simply because your approach really elongates the file.
+    - Reconsider the navtitle usage. If your titles are the same in the topic file, there's no need to add the navtitle here.
+  -->
   <title>Vectorizing an Image</title>
-<!-- Concept topics -->
-  <!-- C_Negative_Space-->
-  <topicref
-      type="concept"
-      href="concepts/C_Negative_Space.dita"
-     >
+  <!-- Concept topics -->
+  <topicref type="concept" href="concepts/C_Negative_Space.dita">
     <topicmeta>
       <navtitle>Using negative space in design</navtitle>
     </topicmeta>

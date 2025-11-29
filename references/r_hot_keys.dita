@@ -2,38 +2,67 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_hot_keys">
   <title>Useful Hot Keys</title>
-  <shortdesc> Figma keyboard shortcuts allow users to access key tools and features in a single
-    action. </shortdesc>
+  <shortdesc>
+    Figma keyboard shortcuts allow users to access key tools and features in a single action.
+  </shortdesc>
   <!-- Useful Hot Keys -->
   <refbody>
+      <!-- LINDGREN
+        - I rec a properties table, as you should always provide a description too
+      -->
+    <properties>
+      <prophead>
+        <proptypehd>Hot Key</proptypehd>
+        <propvaluehd>Accessed Feature</propvaluehd>
+        <propdeschd>Feature Action</propdeschd>
+      </prophead>
+      <!-- V -->
+      <property>
+        <proptype>
+          <uicontrol>V</uicontrol>
+        </proptype>
+        <propvalue>
+          <image href="./../assets/images/ui/figma-move-tool--selected.png" width="15"></image> <uicontrol>Move Tool</uicontrol>
+        </propvalue>
+        <propdesc>The move tool helps you select and reposition objects in Figma.</propdesc>
+      </property>
+      <!-- F -->
+      <property>
+       <proptype>
+          <uicontrol>F</uicontrol>
+        </proptype>
+        <propvalue><uicontrol>Frame Tool. </uicontrol></propvalue>
+        <propdesc>The frame tool allows you to place a frame.</propdesc>
+      </property>
+      <!-- K -->
+      <property>
+       <proptype>
+          <uicontrol>K</uicontrol>
+        </proptype>
+        <propvalue><uicontrol>Scale Tool </uicontrol></propvalue>
+        <propdesc>The scale tool is used to resize images.</propdesc>
+      </property>
+      <!-- CTRL A -->
+      <property>
+       <proptype>
+          <uicontrol>CTRL A</uicontrol>
+        </proptype>
+        <propvalue><uicontrol>Select All </uicontrol></propvalue>
+        <propdesc>This shorcut selects all layers and objects.</propdesc>
+      </property>
+      <!-- C -->
+      <property>
+       <proptype>
+          <uicontrol>C</uicontrol>
+        </proptype>
+        <propvalue> <uicontrol>Add Comment </uicontrol></propvalue>
+        <propdesc>This allows you to provide feedback on user actions.</propdesc>
+      </property>
+
+    </properties>
     <section>
-      <title>Useful Figma keyborad shortcuts</title>
-    <simpletable>
-        <sthead>
-          <stentry>Shortcuts</stentry>
-          <stentry>Accessed Feature</stentry>
-        </sthead>
-        <strow>
-          <stentry>V</stentry>
-          <stentry>Move Tool</stentry>
-        </strow>
-        <strow>
-          <stentry>F</stentry>
-          <stentry>Frame Tool</stentry>
-        </strow>
-        <strow>
-          <stentry>K</stentry>
-          <stentry>Scale Tool</stentry>
-        </strow>
-        <strow>
-          <stentry>Ctrl A</stentry>
-          <stentry>Select All</stentry>
-        </strow>
-        <strow>
-          <stentry>C</stentry>
-          <stentry>Add Comment</stentry>
-        </strow>
-      </simpletable>
+      <title>Keyboard shortcuts</title>
+      <p>This table provides important shortcuts in Figma</p>
     </section>
   </refbody>
 </reference>

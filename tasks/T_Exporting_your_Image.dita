@@ -5,6 +5,12 @@
   <shortdesc>Once you're satifisfied with your image, it's time to export it!</shortdesc>
   <taskbody>
     <steps>
+      <step conref="./tasks#T_Creating_a_Design_Workspace.dita/open_figma">
+        <cmd> have to have a cmd for a step</cmd>
+      </step>
+      <step conref="./tasks#T_Creating_a_Design_Workspace.dita/select_design">
+        <cmd>have to have a cmd for a step</cmd>
+      </step>
       <step>
         <cmd> Navigate to the right side of the page. </cmd>
       </step>

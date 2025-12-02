@@ -15,6 +15,12 @@
       href="concepts/C_Grayscale_palette.dita"
      >
   </topicref>
+    <!-- Concept topics -->
+  <topicref
+      type="reference"
+      href="references/R_Grayscale.dita" processing-role="resource-only"
+     >
+  </topicref>
   <!-- C_Negative Space -->
   <topicref
       type="concept"

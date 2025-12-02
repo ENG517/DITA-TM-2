@@ -5,10 +5,10 @@
   <shortdesc>Once you're satifisfied with your image, it's time to export it!</shortdesc>
   <taskbody>
     <steps>
-      <step id="./../tasks#T_Creating_a_Design_Workspace.dita/open_figma">
+      <step conref="./tasks#T_Creating_a_Design_Workspace.dita/open_figma">
         <cmd> have to have a cmd for a step</cmd>
       </step>
-      <step id="./../tasks#T_Creating_a_Design_Workspace.dita/select_design">
+      <step conref="./tasks#T_Creating_a_Design_Workspace.dita/select_design">
         <cmd>have to have a cmd for a step</cmd>
       </step>
       <step>

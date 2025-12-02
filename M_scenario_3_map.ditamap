@@ -17,12 +17,6 @@
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="concepts/C_Raster_vs_Vector.dita">
-    <topicmeta>
-      <navtitle>The differences between Raster and Vector image types</navtitle>
-    </topicmeta>
-  </topicref>
-
   <!-- Task topics -->
 
   <topicref type="task" href="tasks/T_Create_Frame.dita">
@@ -53,25 +47,31 @@
 
   <topicref type="reference" href="references/r_image_vectors.dita">
     <topicmeta>
-      <navtitle>Vector images</navtitle>
+      <navtitle>Image Vectors</navtitle>
     </topicmeta>
   </topicref>
 
   <topicref type="reference" href="references/r_Image_Rasters.dita">
     <topicmeta>
-      <navtitle>Raster images</navtitle>
+      <navtitle>Image Rasters</navtitle>
     </topicmeta>
   </topicref>
 
   <topicref type="reference" href="references/R_Image_types.dita">
     <topicmeta>
-      <navtitle>Supported image/file types</navtitle>
+      <navtitle>Supported Image/File Types</navtitle>
     </topicmeta>
   </topicref>
 
   <topicref type="reference" href="references/r_hot_keys.dita" >
     <topicmeta>
-      <navtitle>Useful hotkeys</navtitle>
+      <navtitle>Useful Hotkeys</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="reference" href="references/r_Supported_Plugins.dita" >
+    <topicmeta>
+      <navtitle>Helpful Plugins</navtitle>
     </topicmeta>
   </topicref>
 </map>

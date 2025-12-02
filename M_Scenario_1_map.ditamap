@@ -48,12 +48,24 @@
     </topicmeta>
   </topicref>
   <!-- R_Design Panel -->
+  <topicref>
+    
+  </topicref>
   <topicref
       type="reference"
       href="references/r_design_panel.dita"
      >
     <topicmeta>
       <navtitle>Design Panel</navtitle>
+    </topicmeta>
+  </topicref>
+
+    <topicref
+      type="reference"
+      href="references/r_HEX-Values.dita"
+     >
+    <topicmeta>
+      <navtitle>HEX Values</navtitle>
     </topicmeta>
   </topicref>
 </map>

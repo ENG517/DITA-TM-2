@@ -53,7 +53,7 @@ colors:
 ########
 fonts:
   families:
-    copy: 'Archivo Normal, Archivo Extra Light'
+    copy: 'Archivo'
     headings: 'Roboto Sans Serif Black, Roboto Sans Serif Bold, Roboto Sans Serif Semibold, Roboto Sans Serif Medium, Roboto Sans Serif Normal'
     display: 'Archivo Extra Light'
     monospaced: 'Archivo Extra Light'

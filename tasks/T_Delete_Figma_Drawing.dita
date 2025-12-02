@@ -5,14 +5,19 @@
   <shortdesc>Figma is a vector based design software. As such, there is no eraser tool.</shortdesc>
   <taskbody>
     <steps>
-      <step>
-        <cmd>Hover over the unwanted lines of your Figma drawing.</cmd>
-      </step>
-      <step>
-        <cmd>Select the image you'd like to delete.</cmd>
-      </step>
-      <step>
-        <cmd>Press the delete or backspace key on your keyboard.</cmd>
+      <step id="unwanted_image">
+        <cmd>Create a Figma drawing</cmd>
+        <substeps>
+          <substep>
+            <cmd>Hover over the unwanted lines of your Figma drawing.</cmd>
+          </substep>
+          <substep>
+            <cmd>Select the image you'd like to delete.</cmd>
+          </substep>
+          <substep>
+            <cmd>Press the delete or backspace key on your keyboard.</cmd>
+          </substep>
+        </substeps>
       </step>
     </steps>
   </taskbody>

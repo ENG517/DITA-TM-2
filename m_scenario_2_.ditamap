@@ -90,6 +90,16 @@
      >
      </topicref>
   <!-- Reference Topics -->
+  <!-- r_image_vectors -->
+ <topicref
+      type="reference"
+      href="references/r_image_vectors.dita"
+     >
+    <topicmeta>
+      <navtitle>Image vectors</navtitle>
+    </topicmeta>
+  </topicref>
+</map>
   <!-- R_Hotkeys -->
   <topicref
       type="reference"
@@ -117,13 +127,3 @@
       <navtitle>Different image types</navtitle>
     </topicmeta>
   </topicref>
-<!-- r_image_vectors -->
- <topicref
-      type="reference"
-      href="references/r_image_vectors.dita"
-     >
-    <topicmeta>
-      <navtitle>Image vectors</navtitle>
-    </topicmeta>
-  </topicref>
-</map>

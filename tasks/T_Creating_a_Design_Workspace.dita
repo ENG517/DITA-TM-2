@@ -8,7 +8,7 @@
   <taskbody>
     <steps>
       <step id="design_workspace"><cmd>Open Figma in your browser</cmd></step>
-      <step id="select_design"><cmd>Select 'Design' in the upper right-hand corner.
+      <step><cmd>Select 'Design' in the upper right-hand corner.
       <image href="../assets/images/T_creating_a_design_workspace.png" alt="The Design button"></image></cmd></step>
     </steps>
   </taskbody>

@@ -2,25 +2,6 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="m_vectorizing_image">
   <title>Vectorizing an Image</title>
-<!-- Concept topics -->
-  <!-- C_Negative_Space-->
-  <topicref
-      type="concept"
-      href="concepts/C_Negative_Space.dita"
-     >
-    <topicmeta>
-      <navtitle>Using negative space in design</navtitle>
-    </topicmeta>
-  </topicref>
-    <!-- C_Bitmap-->
-  <topicref
-      type="concept"
-      href="concepts/C_Bitmap.dita"
-     >
-    <topicmeta>
-      <navtitle>Bitmaps are used for raster images</navtitle>
-    </topicmeta>
-  </topicref>
   <!-- Task Topics -->
   <!-- T_Create_Frame-->
   <topicref
@@ -46,7 +27,7 @@
       href="tasks/t_scale_image.dita"
      >
     <topicmeta>
-      <navtitle>Scalinng an image</navtitle>
+      <navtitle>Scaling an image</navtitle>
     </topicmeta>
   </topicref>
   <!--T_Exporting_your_image-->
@@ -56,6 +37,42 @@
      >
     <topicmeta>
       <navtitle>Exporting Your Image</navtitle>
+    </topicmeta>
+<!--T_Delete_Figma_Drawing-->
+<topicref
+      type="task"
+      href="tasks/T_Delete_Figma_Drawing.dita"
+     >
+    <topicmeta>
+      <navtitle>Deleting a Figma Drawing</navtitle>
+    </topicmeta>
+  </topicref>
+  <!-- Concept topics -->
+  <!-- c_drawing_tools-->
+  <topicref
+      type="concept"
+      href="concepts/c_drawing_tools.dita"
+     >
+    <topicmeta>
+      <navtitle>Figma's drawing tools</navtitle>
+    </topicmeta>
+    </topicref>
+  <!-- C_Negative_Space-->
+  <topicref
+      type="concept"
+      href="concepts/C_Negative_Space.dita"
+     >
+    <topicmeta>
+      <navtitle>Negative space as a design element</navtitle>
+    </topicmeta>
+  </topicref>
+    <!-- C_Bitmap-->
+  <topicref
+      type="concept"
+      href="concepts/C_Bitmap.dita"
+     >
+    <topicmeta>
+      <navtitle>Bitmaps</navtitle>
     </topicmeta>
   </topicref>
   <!-- Reference Topics -->

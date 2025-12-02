@@ -48,6 +48,7 @@
       <navtitle>Deleting a Figma Drawing</navtitle>
     </topicmeta>
   </topicref>
+  <!--Conref resource-->
   <topicref
       type="task"
       href="tasks/T_Creating_a_Design_Workspace.dita" processing-role="resource-only"

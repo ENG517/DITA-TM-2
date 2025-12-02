@@ -106,7 +106,6 @@ style:
     color: $colors-primary-main
     font-family: $fonts-families-display
     font-size: $fonts-sizing-title
-    # text-transform: uppercase
     letter-spacing: 0.5pt
   # Heading Styles
   h1:

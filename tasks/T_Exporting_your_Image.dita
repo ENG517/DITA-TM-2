@@ -6,13 +6,13 @@
   <taskbody>
     <steps>
       <step conref="T_Creating_a_Design_Workspace.dita#t_creating_a_design_workspace/design_workspace">
-        <cmd> have to have a cmd for a step</cmd>
+        <cmd>have to have a cmd for a step</cmd>
       </step>
       <step conref="T_Creating_a_Design_Workspace.dita#t_creating_a_design_workspace/select_design">
         <cmd>have to have a cmd for a step</cmd>
       </step>
       <step>
-        <cmd> Navigate to the right side of the page. </cmd>
+        <cmd>Navigate to the right side of the page. </cmd>
       </step>
       <step>
         <cmd>Select the desired file type. </cmd>

@@ -86,7 +86,7 @@
   <!-- Conref context-->
   <topicref
       type="task"
-      href="tasks/tasks/T_Creating_a_Design_Workspace.dita" processing-role="resource-only"
+      href="tasks/T_Creating_a_Design_Workspace.dita" processing-role="resource-only"
      >
      </topicref>
   <!-- Reference Topics -->

@@ -99,12 +99,11 @@
       <navtitle>Image vectors</navtitle>
     </topicmeta>
   </topicref>
-</map>
   <!-- R_Hotkeys -->
   <topicref
       type="reference"
       href="references/r_hot_keys.dita"
-     >
+  >
     <topicmeta>
       <navtitle>Hotkeys</navtitle>
     </topicmeta>
@@ -127,3 +126,4 @@
       <navtitle>Different image types</navtitle>
     </topicmeta>
   </topicref>
+  </map>

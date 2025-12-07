@@ -83,12 +83,6 @@
       <navtitle>Bitmaps</navtitle>
     </topicmeta>
   </topicref>
-  <!-- Conref context-->
-  <topicref
-      type="task"
-      href="tasks/T_Creating_a_Design_Workspace.dita" processing-role="resource-only"
-     >
-     </topicref>
   <!-- Reference Topics -->
   <!-- r_image_vectors -->
  <topicref

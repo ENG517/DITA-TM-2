@@ -9,18 +9,12 @@
       advanced stroke settings, fills, and more!</p>
     <section>
       <title>Brushes</title>
-      <p audience="expert">Brushed add hand-drawn elements to your designs for your projects.
-      You can draw directly inside your Figma Design file using the pencil andbrush tools. These
-      tools create vecotr networks by placing vector points along your drawing path. The vector
-      points of your drawing can be edited using <uicontrol>vector edit mode</uicontrol>.</p>
-      <p>These
-      brush styles can be further customized by creating single vecotr layers using shapes,
-      flattened text layers, and custom vector paths. </p>
+      <p audience="expert">Brushes add hand-drawn elements to designs for your projects, and can draw directly inside your Figma Design file using the pencil and brush tools. These tools create vecotr networks by placing vector points along your drawing path. The vector points of your drawing can be edited using <uicontrol>vector edit mode</uicontrol>.</p>
+      <p>These brush styles can be further customized by creating single vector layers using shapes, flattened text layers, and custom vector paths. </p>
     </section>
     <section>
       <title>Textures</title>
-      <p>You can add layers to the drawings to enhance the final product with
-      different effects.</p>
+      <p>You can add layers to the drawings to enhance the final product with different effects.</p>
       <p>The seven types of effects in Figma Draw are:</p>
         <ul>
         <li>Glass</li>
@@ -31,14 +25,11 @@
         <li>Noise</li>
         <li>Texture</li>
       </ul>
-      <p>Experiment with these different textures and effects in your
-      design to add more depth do your drawings!</p>
+      <p>Experiment with these different textures and effects in your design to add more depth do your drawings!</p>
     </section>
     <section>
       <title>Dynamic Strokes</title>
-    <p>Dynamic Strokes allow you to create visual representations of
-      the vector's network path. The most common use for this feaure is adding borders to images,
-      but you can also use this to create lines, arrows, and outlines.</p>
+    <p>Dynamic Strokes allow you to create visual representations of the vector's network path. The most common use for this feaure is adding borders to images, but you can also use this to create lines, arrows, and outlines.</p>
     </section>
     <section>
       <title>Variable Width Strokes</title>

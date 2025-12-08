@@ -9,10 +9,6 @@
     <p>
       Negative space is the space around or between objects, elements, or forms, that creates a form itself. The Pittsburgh Zoo logo is a gorilla and lion formed within the negative space of a tree.
     </p>
-    <!-- LINDGREN
-      - I know Bellamy says to put images inside of paragraphs, but that's not normally good practice in most XML conditions. That said, I placed the image as a sibling of the paragraphs before and after it.
-      - Replaced .avif file with normalized /jpeg file. Also normalized filenames, so there's no whitepace chars. The .avif file was acting strange when I attempted to create outputs.
-    -->
     <image href="../assets/images/C_Negative_Space.jpeg" placement="break" alt="The Pittsburgh Zoo Logo has a gorilla and lion in the negative space"></image>
     <p>Negative space is commonly confused with white space, which provides breathing space for design elements in a composition.
     </p>

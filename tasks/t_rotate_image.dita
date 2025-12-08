@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="Rotating_an_image">
   <title>Rotating an image</title>
-  <shortdesc>You can rotate an image in Figma by selecting it and dragging the rotation handle or by entering a specific angle in the right-hand panel</shortdesc>
+  <shortdesc>You can rotate an image in Figma by selecting it and dragging the rotation handle or by inputting an angle value.</shortdesc>
   <taskbody>
     <steps>
       <step>

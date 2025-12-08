@@ -13,7 +13,7 @@
         <cmd>Hover over the open in button on the Monomagic page.</cmd>
       </step>
       <step>
-        <cmd>Open the plugin in the environment we've been working in.</cmd>
+        <cmd>Open the plugin in your Figma environment</cmd>
       </step>
       <step>
         <cmd>Select your image.</cmd>

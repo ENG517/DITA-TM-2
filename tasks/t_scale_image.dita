@@ -15,7 +15,7 @@
         <cmd>Scale your image proportionally.</cmd>
       </step>
       <step>
-        <cmd>Switch back to the move tool by selecting the **"M"** hotkey.</cmd>
+        <cmd>Switch back to the move tool by selecting the <uicontrol>"M"</uicontrol> hotkey.</cmd>
         <info> 
           <note type="caution">Scaling your image too dramatically may alter the image quality.</note></info>
       </step>

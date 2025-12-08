@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_HEX-Values">
-<<<<<<< HEAD
   <title>hex value codes</title>
-=======
-  <title>HEX Value Codes</title>
->>>>>>> c4153c2b0ada23f57157f9e45668431ce7fbaf72
   <shortdesc>This defines HEX Values and provides a table for different colors and their associated
     HEX value and RGB Value</shortdesc>
   <refbody>

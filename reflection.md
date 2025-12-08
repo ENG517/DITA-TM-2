@@ -12,14 +12,15 @@
 
 ### Map 1
 
-1. C_Negative_Space
-2. T_Grayscale_using_Monomagic
-3. T_Testing_Colorblind_Accessibility
-4. R_Grayscale
-5. R_Hotkeys
-6. R_Design_Panel
-7. R_Figma_Draw
-8. R_Supported_Plugins
+1. C_Grayscale_palette.dita
+2. R_Grayscale.dita
+3. C_Negative_Space.dita
+4. T_Grayscale Using Monomagic
+5. T_Grayscale_using_monomagic.dita
+6. t_Testing_Colorblind_Accessibility.dita
+7. r_hot_keys.dita
+8. r_design_panel.dita
+9. r_HEX-Values.dita
 
 ### Reflective comments 1
 
@@ -28,14 +29,19 @@ The map for this section outlines how to grayscale an image inside Figma. Reuse 
 ## Scenario 2 - Vectorizing Images / Illustrator for Vectoring
 ### Map 2
 
-1. C_Raster_vs_Vector images
-2. C_Bitmaps
-3. T_Vectorize_An_Image
-4. T_Create_Frame
-5. T_Scale_Image
-6. T_Fill_Frame
-7. R_Image_Types
-8. R_Supported_Plugins
+1. T_Create_Frame.dita
+2. T_Fill_Frame.dita
+3. t_scale_image.dita
+4. T_Exporting_your_Image.dita
+5. T_Delete_Figma_Drawing.dita
+6. T_Creating_a_Design_Workspace.dita (conref resource)
+7. c_drawing_tools.dita
+8. C_Negative_Space.dita
+9. C_Bitmap.dita
+10. r_image_vectors.dita
+11. R_hot_keys.dita
+12. r_design_panel.dita
+13. R_Image_types.dita 
 
 ### Reflective Comments 2
 
@@ -45,16 +51,19 @@ The map for section two shows how to vectorize a raster image using a third-part
 
 ### Map 3
 
-1. C_Negative_Space
-2. C_Raster_vs_Vector images
-3. T_Create_Frame
-4. T_Fill_Frame
-5. T_Scale_image
-6. T_Rotate_Image
-7. R_Image_Vectors
-8. R_Image_Rasters
-9. R_Image_Types
-10. R_Hotkeys
+1. C_Negative_Space.dita
+2. C_Raster_vs_Vector.dita
+3. T_Create_Frame.dita
+4. T_Fill_Frame.dita
+5. t_scale_image.dita
+6. t_rotate_image.dita
+7. r_image_vectors.dita
+8. r_Image_Rasters.dita
+9. R_Image_types.dita
+10. r_hot_keys.dita
+11. r_Supported_Plugins.dita
+
+
 
 ### Reflective comments 3
 

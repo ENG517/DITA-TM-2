@@ -6,7 +6,7 @@
     Frames are the primary container for design elements such as shapes, texts, and images in Figma.
   </shortdesc>
   <taskbody>
-    <prereq>Pre-Requisites:
+    <prereq><b>Pre-Requisites:</b>
       <p>Have an image to import. Currently, Figma supports JPG, PNG, GIF, WEBP, and HEIC formats.</p>
       <p>Different image formats are ideal for different image types. (link to file type ref topic can go here)</p>
     </prereq>

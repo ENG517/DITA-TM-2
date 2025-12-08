@@ -8,8 +8,8 @@
   <taskbody>
     <steps>
       <step>
-        <cmd>Download the colorblindness accessibility plugin
-          https://www.figma.com/community/plugin/733343906244951586/color-blind</cmd>
+        <cmd>Download the <xref href="https://www.figma.com/community/plugin/733343906244951586/color-blind">colorblindness
+          accessibility plugin</xref>colorblindness accessibility plugin.</cmd>
       </step>
       <step>
         <cmd>click <uicontrol>Open In</uicontrol> to access the plugin in your designated Figma
@@ -19,7 +19,7 @@
         <cmd>Click <uicontrol>Run</uicontrol>.</cmd>
       </step>
       <step>
-        <cmd>Select all the types of color vision you would like to emulate</cmd>
+        <cmd>Select all the types of color vision you would like to emulate.</cmd>
       </step>
       <step>
         <cmd>click <uicontrol>Create views</uicontrol>.</cmd>

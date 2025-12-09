@@ -8,12 +8,10 @@
     <section>
       <title>Definition</title>
       <p>Grayscaled graphics and images only contain shades of black, white
-      and gray. By sticking with black and white, grayscaled palletes emphasize form, contrast, and fundamental elements like
-      line and shape.</p>
-      <p>By sticking with black and white, form, contrast, and
-      fundamental elements like line and shape are emphasized.</p>
-      <p>While true black and white
-      onlyexist in two HEX codes, gray shades exist across the image in varying levels</p>
+      and gray. By sticking with black and white, form, contrast, and fundamental elements like
+      lineand shape are emphasized.</p>
+      <p>While true black and white only exist in two HEX codes,
+      gray shades exist across the image in varying levels.</p>
     </section>
     <properties>
       <prophead>

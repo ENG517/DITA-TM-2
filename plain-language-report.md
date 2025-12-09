@@ -1,5 +1,6 @@
-Sectioning for memo
+# Plain Language Report
 [Plain Language Pull Request:](https://github.com/ENG517/DITA-TM-2/pull/37) 
+
 [Team 2 Style Guide Template](https://docs.google.com/document/d/16Bl6BTj0IVzX7-88ReqUERDiHzsgOgPSj7Crhn7Gmo0/edit?usp=sharing)
 
 * For this unit, we began by making changes based on unit 2 feedback to ensure that all of the topics created were being used in the ditamaps and to make sure all file names were inputted properly so as to get the maps to run successfully. We employed the use of conrefs to the Exporting your Image task topic and scenario 2 ditamap, fixed hyperlinks to follow href conditions, and increased clarity, cohesion, and navigability of the tasks and information needed to complete the steps. 
@@ -12,10 +13,9 @@ Sectioning for memo
 
 * To avoid syntactic ambiguity, we made sure topics were restated when applicable. Consider the following example in which the topic of **raster** images are restated to provide clarity to a section that may be unclear.
 
-![]()
+![Raster after screenshot](assets/images/Plain_Language_Screenshots/Raster_After.png)
 
-*We also edited out many examples referencing specific locations on the screen or in the Figma UI for the sake of reusability, especially in instances where a table or element in Figma might be in different locations depending on the workspace.
-
-![]()
+* We also edited out many examples referencing specific locations on the screen or in the Figma UI for the sake of reusability, especially in instances where a table or element in Figma might be in different locations depending on the workspace.
+![Angle values before](assets/images/Plain_Language_Screenshots/Angle_Value_Before.png)
+![Angle vales after](assets/images/Plain_Language_Screenshots/Angle_Value_After.png)!
 * Finally, we went through the topics to look for restrictive referencing cases and reworded them to increase the reuse cases for the information.  We collaborated together over zoom meetings to review and apply changes and corrections to the wording and elements of our topics, and we also wrote our edit log and reflection together during a collaborative meeting. 
-

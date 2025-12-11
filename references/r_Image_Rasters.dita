@@ -5,24 +5,45 @@
   <shortdesc>A type of digital image that allows for photorealistic details, but loses quality when scaled.
   </shortdesc>
   <refbody>
-    <section> Image rasters are digital images composed of a grid of pixels. As raster graphics are scaled up, quality decreases because they are dependent on resolution. Sizing the image up or down will impact image quality.</section>
-    <section>Raster image files are generally larger in size than vector graphic files.</section>
-    <simpletable>
-      <sthead>
-        <stentry>Common raster file formats:</stentry>
-      </sthead>
-      <strow>
-        <stentry>JPEG</stentry>
-      </strow>
-      <strow>
-        <stentry>PNG</stentry>
-      </strow>
-      <strow>
-        <stentry>GIF</stentry>
-      </strow>
-      <strow>
-        <stentry>PSD</stentry>
-      </strow>
-    </simpletable>
+    <!-- LINDGREN
+      - <section> should not be used like a <p> paragraph.
+        I revised it to indicate how section is used to create
+        scope for a subset of information. Now, you could
+        potentially create multiple sections, if needed.
+      - Also, your copy did not take on your theme styles until
+        I revised them with the appropriate tags.
+    -->
+    <section>
+      <p>
+        Image rasters are digital images composed of a grid of pixels. As raster graphics are scaled up, quality decreases because they are dependent on resolution. Sizing the image up or down will impact image quality.
+      </p>
+
+      <p>
+        Raster image files are generally larger in size than vector graphic files.
+      </p>
+      <!-- LINDGREN
+        - properties table makes sense here, since it would
+          briefly help explain these file formats.
+        - As is, you would simply need a list
+      -->
+      <simpletable>
+        <sthead>
+          <stentry>Common raster file formats:</stentry>
+        </sthead>
+        <strow>
+          <stentry>JPEG</stentry>
+        </strow>
+        <strow>
+          <stentry>PNG</stentry>
+        </strow>
+        <strow>
+          <stentry>GIF</stentry>
+        </strow>
+        <strow>
+          <stentry>PSD</stentry>
+        </strow>
+      </simpletable>
+
+    </section>
   </refbody>
 </reference>

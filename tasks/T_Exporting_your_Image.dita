@@ -5,6 +5,11 @@
   <shortdesc>Once you're satifisfied with your image, it's time to export it!</shortdesc>
   <taskbody>
     <steps>
+      <!-- LINDGREN:
+        FFR, try to reserve conrefs for larger scopes than steps.
+        It's not completely unheard of, as sometimes there may be
+        a substep case, but not so much one-liner cases.
+      -->
       <step conref="T_Creating_a_Design_Workspace.dita#t_creating_a_design_workspace/design_workspace">
         <cmd>have to have a cmd for a step</cmd>
       </step>
@@ -18,6 +23,7 @@
         <cmd>Select the desired file type. </cmd>
       </step>
       <step>
+        <!-- LINDGREN: Spelling error -->
         <cmd>Select <uicontrol>"Eport Untitled"</uicontrol>.</cmd>
       </step>
     </steps>

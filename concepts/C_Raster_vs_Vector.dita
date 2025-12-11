@@ -2,17 +2,35 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_raster_vs_vector">
   <title>Raster vs. Vector</title>
+  <!-- LINDGREN
+    - Remember that short descriptions don't just state abstractions.
+      Instead, they should hint at what's next in concept topics in
+      particular, since you can rely more on the subject matter in such
+      topic types.
+  -->
   <shortdesc>
     The two primary image types used in Figma are Raster Images and Vector Images. 
   </shortdesc>
   <conbody>
+    <!-- LINDGREN
+      - Needed to add <p> tags to parse 2 paragraphs
+      - Make sure to check your outputs, because I needed
+        to resolve an image breaking out of margins issue.
+        This occurs throughout the model.
+
+      - Aside: If we had more time, we would have learned
+        about glossaries, so you could have marked up
+        "Image Fill" and provided automated links to definitions
+        and metadata. Cool, right?! :-)
+    -->
     <p>
       A Raster Image is comprised of pixels, and is treated as an "Image Fill" in Figma. This allows for editable properties like color, exposure, contrast, and layer effects like blurs and drop shadows to be easily manipulated. Raster images excel at capturing photorealistic details and vibrancy.
-      
+    </p>
+    <p>
       The other dominant image type is Vector. These images are formed by mathematical equations denoting fixed points on a grid. When vector images are resized their mathematical equations are recalculated, which results in images that remain crisp at any size. However, for all this format's benefits, it often fails to capture the same photorealistic details that raster images do.
-      </p>
-      <fig>
-        <image href="../assets/images/Raster_vs_Vector.png" alt="Raster vs Vector images"></image>
-      </fig>
+    </p>
+    <fig>
+      <image href="../assets/images/Raster_vs_Vector.png" alt="Raster vs Vector images" width="320px"></image>
+    </fig>
   </conbody>
 </concept>

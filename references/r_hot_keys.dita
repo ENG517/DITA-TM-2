@@ -8,6 +8,11 @@
   <refbody>
     <section>
       <title>Useful Figma keyborad shortcuts</title>
+      <!-- LINDGREN
+        - Note issues with indentation
+        - This should probably be a properties table,
+          so you can also include a brief description.
+      -->
     <simpletable>
         <sthead>
           <stentry>Shortcuts</stentry>

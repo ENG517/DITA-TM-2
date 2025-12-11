@@ -2,6 +2,10 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_create_frame">
   <title>Creating a Frame</title>
+  <!-- LINDGREN
+    Great SD here! Don't forget the action part of the task topic though.
+    As is, it reads more like a concept topic SD.
+  -->
   <shortdesc>
     Frames are the primary container for design elements such as shapes, texts, and images in Figma.
   </shortdesc>
@@ -11,6 +15,14 @@
       <p>Different image formats are ideal for different image types. (link to file type ref topic can go here)</p>
     </prereq>
     <steps>
+      <!-- LINDGREN
+        - Mind your indentation work, as it varies from file to file.
+          Indentation work helps readability and comprehension, so you
+          can also better recognize issues, when necessary.
+        - Regarding the novice approach here. Perhaps there are substeps
+          to this action that novice would need to know, but anyone else
+          not so much.
+      -->
       <step audience="novice"><cmd>Open a new Figma workspace.</cmd></step>
       <step><cmd>Navigate to the toolbar located at the bottom of the page.</cmd></step>
       <step><cmd>Select the Frame Tool, located in the second dropdown menu from the left.

@@ -9,10 +9,16 @@
     <section>
       <!-- Definition -->
       <title>Definition</title>
-      <p>A HEX Value is a color code that tells computers and
-      devices which color to display using three pairs of digitals, representing the red, green, and
-      blue RGB values.</p>
+      <p>
+        A HEX Value is a color code that tells computers and devices which color to display using three pairs of digitals, representing the red, green, and blue RGB values.
+      </p>
     </section>
+    <!-- LINDGREN
+      I like the idea here. Yet, I think
+      this should be a <simpletable>, because
+      <propdeschd> is not congruent
+      with another value, right?
+    -->
     <!-- Table of HEX Codes, RGB Codes, and Colors -->
     <properties>
       <prophead>

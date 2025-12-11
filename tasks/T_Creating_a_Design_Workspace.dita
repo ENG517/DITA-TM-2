@@ -8,8 +8,19 @@
   <taskbody>
     <steps>
       <step id="design_workspace"><cmd>Open Figma in your browser</cmd></step>
-      <step id="select_design"><cmd>Select 'Design' in the upper right-hand corner.
-      <image href="../assets/images/T_creating_a_design_workspace.png" alt="The Design button"></image></cmd></step>
+      <step id="select_design">
+        <!-- LINDGREN:
+          - Use <uicontrol> for UI features
+          - Watch out for line-busting images, as well as keep images
+            close to their proximity.
+          - And, since the UI control can be tagged, there is no need
+            to add alt text in this case, unless you were to describe it
+            or provide the 'role' label that would be read aloud by A11y tech.
+        -->
+        <cmd>Select <image href="../assets/images/T_creating_a_design_workspace.png" alt="" width="30"></image> <uicontrol>Design</uicontrol> in the upper right-hand corner.
+          <!-- <image href="../assets/images/T_creating_a_design_workspace.png" alt="The Design button" width="35"></image> -->
+        </cmd>
+      </step>
     </steps>
   </taskbody>
 </task>
